@@ -328,6 +328,13 @@ p.excerpt { margin: 0; }
 	right: 0;
 	top: 1.5em;
 }
+
+/* thin line from ibuys.github.com */
+.thin_line { 
+	border-top: 1px solid #999; 
+}
+.bottom_spacer{padding-bottom: 8em;}
+
 /* @end */
 
 /* @group Code */
