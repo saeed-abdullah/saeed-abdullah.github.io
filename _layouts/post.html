@@ -16,9 +16,20 @@ feed: atom.xml
 
   <address class="signature">
     <a class="author" href="/">Saeed</a> 
+    <ul class="compact">
     <span class="date">{{ page.date | date_to_long_string }}</span>
     <span class="location">{{ page.location }}</span>
   </address>
+
+<!-- Can't use nav-tag.html because tags are in
+    page.tags -->
+<ul class="compact">
+        {% for tag in page.tags %}
+        <li class="tag_list_item"> <a href="/tags/{{ tag }}">{{ tag }}</a></li>
+        {% endfor %}
+</ul>
+
+
 </div><!-- End Page -->
 
 
