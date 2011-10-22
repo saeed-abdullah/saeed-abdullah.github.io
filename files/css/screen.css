@@ -192,6 +192,17 @@ ul.compact li span.date {
 ul.compact li a {
 	width: 70%;
 }
+
+/* Tags */
+ul.compact li.tag_list_item {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    font-size: 87.5%;
+    font-style: italic;
+    margin-right: 1.5em;
+}
+
 /* @end */
 
 /* @group Header */
