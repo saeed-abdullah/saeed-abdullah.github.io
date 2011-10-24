@@ -1,0 +1,8 @@
+---
+layout: name
+title: Page not found.
+---
+
+_Looking for that page is futile. The [Vogons][vogons-wiki] have lost it._
+
+[vogons-wiki]: http://en.wikipedia.org/wiki/Vogon
