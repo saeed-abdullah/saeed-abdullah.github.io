@@ -1,62 +1,10 @@
 ---
 layout: name
-title: Info
+tile: Info
 ---
 
-Here is what George Orwell [said] [orwell-1]:
+My name is Saeed Abdullah. I am doing my PhD in Information Science --- focusing on Machine Learning and Social Network analysis.
 
->
->A happy vicar I might have been\\
->Two hundred years ago\\
->To preach upon eternal doom\\
->And watch my walnuts grow;
->
->
->But born, alas, in an evil time,\\
->I missed that pleasant have\\
->For the hair has grown on my upper lip\\
->And the clergy are all clean-shaven.
->
->
->And later still the times were good,\\
->We were so easy to please,\\
->We rocked our troubled thoughts to sleep\\
->On the bosoms of the trees.
->
->
->All ignorant we dared to own\\
->The joys we now dissemble;\\
->The greenfinch on the apple bough\\
->Could make my enemies tremble.
->
->
->But girl's bellies and apricots,\\
->Roach in a shaded stream,\\
->Horses, ducks in flight at dawn,\\
->All these are a dream.
->
->
->It is forbidden to dream again;\\
->We maim our joys or hide them:\\
->Horses are made of chromium steel\\
->And little fat men shall ride them.
->
->
->I am the worm who never turned,\\
->The eunuch without a harem;\\
->Between the priest and the commissar\\
->I walk like Eugene Aram;
->
->
->And the commissar is telling my fortune\\
->While the radio plays,\\
->But the priest has promised an Austin Seven,\\
->For Duggie always pays.
->
->
->I dreamt I dwelt in marble halls,\\
->And woke to find it true;\\
->I wasn't born for an age like this;\\
->Was Smith? Was Jones? Were you?
+If you are interested about the site, you should take a look at the
+[colophon](/info/colophon.html).
 
-[orwell-1]: http://orwell.ru/library/essays/wiw/english/e_wiw
