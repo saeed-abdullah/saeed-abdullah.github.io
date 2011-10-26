@@ -14,4 +14,4 @@ terms  --- [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)]
 The content of the site is available at [github][github-blog] and licensed under [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)][cc-nc-sa] unless explicitly noted otherwise.
 
 [cc-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/3.0/
-[github-blog]: http://github.com/saeed-abdullah
+[github-blog]: https://github.com/saeed-abdullah/saeedabdullah.com
