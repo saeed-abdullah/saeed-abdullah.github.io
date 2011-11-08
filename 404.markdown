@@ -3,6 +3,10 @@ layout: name
 title: Page not found.
 ---
 
-_Looking for that page is futile. The [Vogons][vogons-wiki] have lost it._
+<div style="margin-left:40%" markdown="1">
+_Looking for that page is futile._\\
+_The [Vogons][vogons-wiki] have lost it._
+</div>
+
 
 [vogons-wiki]: http://en.wikipedia.org/wiki/Vogon
