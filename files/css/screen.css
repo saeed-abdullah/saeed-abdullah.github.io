@@ -65,8 +65,8 @@ hr {
 sup { line-height: 1ex; }
 
 #site {
-	/* max-width: 46em; */
-    max-width: 80%; 
+	max-width: 46em;
+    /* max-width: 80%; */
 	margin: 1.5em auto 3em auto;
 	line-height:1.5em;
 }
@@ -279,13 +279,13 @@ body#Kith #header a.kith
 .footnotes ol li > a { display: none; }
 /* @end */
 
-/* @group Sections */
+/* @group Sections 
 .section { 
 	font-size: 87.5%; 
 	line-height: 1.43em; 
 	margin-bottom: 1.43em;
 	margin-top: 1.43em;
-	margin-left: 7.5em;
+	margin-left: 3em;
 	padding-right: 3em;
 }
 .section h1 {
@@ -303,8 +303,16 @@ body#Kith #header a.kith
 
 /* @end */
 
-.list .title { font-weight: bold; }
 p.line { position: relative; margin: 0; }
+
+a.title {
+    font-weight: normal;
+	font-size:1.2em; 
+	font-weight: normal; 
+	clear: left; 	
+	font-family: 'lucida grande', sans-serif; 
+
+}
 p.excerpt { margin: 0; }
 .comments { font-size: smaller; position: absolute; color: silver; right: 0; top: 0; }
 .excerpt { color: black; }
@@ -344,6 +352,14 @@ p.excerpt { margin: 0; }
 .thin_line { 
 	border-top: 1px solid #999; 
 }
+
+/* small_date from ibuys.github.com */
+.small_date {
+    font-size: 0.8em;
+    text-align: right;
+    padding-bottom: 1px;
+}
+
 .bottom_spacer{padding-bottom: 8em;}
 
 /* @end */
@@ -495,4 +511,5 @@ div.maruku-equation img.maruku-png { position: relative; top: -0.75em;}
 span.maruku-inline { }
 img.maruku-png { }
 /* @end */
+
 
