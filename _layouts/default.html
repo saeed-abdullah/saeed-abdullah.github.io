@@ -7,9 +7,6 @@
    <title>{{ page.title }}</title>
    <meta name="author" content="Saeed Abdullah" />
 
-   <link rel='openid.server' href='http://www.myopenid.com/server' />
-   <link rel='openid.delegate' href='http://saeedabdullah.com' />
-
    <link rel="start" href="/" />
 
 	{% if page.keywords %}
@@ -20,31 +17,21 @@
   	<link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="RSS feed" />
 	{% endif %}
 
+    <!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,400italic,700italic' rel='stylesheet' type='text/css'> -->
+
+    <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
+
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="/files/css/syntax.css" type="text/css" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/files/css/screen.css" type="text/css" />
+   <link rel="stylesheet" href="/files/css/svbtle/style.css" type="text/css" />
+   
 
 </head>
-<body id="{{ page.section }}">
-<div id="site">
 
-  {{ content }}
- 
-  <div id="footer">
-    <address>
-        <span class="copyright">
-            <a href="/info/colophon.html">Colophon &amp; Copyright</a>
-        </span>
-	    <span class="engine">
-			Powered by 
-			<a href="http://github.com/mreid/jekyll/" title="A static, minimalist CMS">Jekyll</a>
-		</span>
-	</address>
-  </div>
-</div>
+ {{content}}
 
 {% include google-analytics.html %}
-</body>
-</html>
+
+ </html>

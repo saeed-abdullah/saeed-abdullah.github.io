@@ -1,12 +1,11 @@
 ---
-layout: name
-title: Page not found.
+layout: page
 ---
 
-<div style="margin-left:40%" markdown="1">
-_Looking for that page is futile._\\
+<h5 markdown="1">
+_Looking for that page is futile._
 _The [Vogons][vogons-wiki] have lost it._
-</div>
+</h5>
 
 
 [vogons-wiki]: http://en.wikipedia.org/wiki/Vogon

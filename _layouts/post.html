@@ -1,51 +1,16 @@
 ---
-layout: default
-top: Home
-feed: atom.xml
+layout: name
 ---
 
-<div id="header">
-	{% include nav-post.html %}
-</div>
 
-<div id="page">
-	
-  <h1 class="emphnext">{{ page.title }}</h1>
+<article class="post">
+    <h2 class="entry-title">
+        <a href="{{ page.url }}" class="no-link">{{ page.title }}</a>
+    </h2>
 
-{{ content }}
-
-  <address class="signature">
-    <a class="author" href="/">Saeed</a> 
-    <ul class="compact">
-    <span class="date">{{ page.date | date_to_long_string }}</span>
-    <span class="location">{{ page.location }}</span>
-  </address>
-
-<!-- Can't use nav-tag.html because tags are in
-    page.tags -->
-<ul class="compact">
-        {% for tag in page.tags %}
-        <li class="tag_list_item"> <a href="/tags/{{ tag }}">{{ tag }}</a></li>
-        {% endfor %}
-</ul>
+    <div class="entry-date"> {{ page.date | date_to_long_string }}</div>
 
 
-</div><!-- End Page -->
+    {{content}}
 
-
-<!-- Discus Comments -->
-<div id="disqus_thread"></div>
-
-<!-- Enable Disqus comments -->
-
-
-<script type="text/javascript">
-	var disqus_iframe_css = "http://saeedabdullah.com/css/screen.css";
-	var disqus_title = "{{ page.title }}";
-	var disqus_message = "{{ page.excerpt }}";
-</script>
-<script type="text/javascript" src="http://disqus.com/forums/saeedabdullah/embed.js"></script>
-
-<noscript>
-		<a href="http://saeedabdullah.disqus.com/?url=ref">View the discussion thread.</a>
-</noscript>
+</article>
