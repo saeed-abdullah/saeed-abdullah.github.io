@@ -9,7 +9,7 @@ I am a second year PhD student in [Information Science, Cornell][info-sci]
 centric computation --- mostly making use of ubiquitous data from mobile
 devices.
 
-<div class="wp-caption alignnone" style="width: 310px"><img class="alignnone size-medium" title="Saeed Abdullah" src="/files/images/portrait.jpg" alt="" width="400" height="267" /></div>
+<div class="wp-caption alignnone" style="width: 310px"><img class="alignnone size-medium" title="Saeed Abdullah" src="/files/images/portrait.png" alt="" width="400" height="267" /></div>
 
 As a graduate student, my day-to-day activity usually consists of
 collecting, taming, analyzing data in the research space of social
