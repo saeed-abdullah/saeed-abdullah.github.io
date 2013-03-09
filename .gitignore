@@ -1,5 +1,8 @@
+# Ignore generated sites
 _site/*
+blog/_site/*
 
 #Ignore .DS_Store
 .DS_Store
+
 
