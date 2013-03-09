@@ -2,10 +2,12 @@
 layout: page
 ---
 
-<h5 markdown="1">
-_Looking for that page is futile._
-_The [Vogons][vogons-wiki] have lost it._
-</h5>
+<h2> <a href="#" class="no-link">
+Looking for that page is futile.
+</a>
+</h2>
 
+
+The [Vogons][vogons-wiki] have lost it.
 
 [vogons-wiki]: http://en.wikipedia.org/wiki/Vogon
