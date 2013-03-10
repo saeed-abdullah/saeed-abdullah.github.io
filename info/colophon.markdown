@@ -18,7 +18,7 @@ shares same license --- GPL V2.0. The rest of the content is licensed under [Att
 noted otherwise.
 
 [cc-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/3.0/
-[github-blog]: https://github.com/saeed-abdullah/saeedabdullah.com
+[github-blog]: https://github.com/saeed-abdullah/saeed-abdullah.github.com
 [tommi-website]: http://kaikkonendesign.fi/
 [tommi-typography]: http://kaikkonendesign.fi/typography/
 [wp-svbtle]: http://wp-svbtle.com/
