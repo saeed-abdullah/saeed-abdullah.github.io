@@ -17,7 +17,7 @@ I am [working on] (/project).
 If you are interested about the site, take a look [here](colophon.html).
 
 If you want to discuss about something, feel free to send an email to 
-`me at saeedabdullah.com`
+_me at saeedabdullah.com_
 
 [info-sci]: http://infosci.cornell.edu/
 [pac-group]: http://pac.cs.cornell.edu/
