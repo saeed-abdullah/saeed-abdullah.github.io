@@ -2,16 +2,7 @@
 layout: default
 ---
 
-<body class="page page-template-default">
-
-{% include nav-sidebar.html %}
-
-<section id="river" role="main">
-
-<article class="post">
-    {{content}}
-</article>
-
-</section>
-
-</body>
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
