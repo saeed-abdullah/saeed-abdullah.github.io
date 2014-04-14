@@ -5,3 +5,14 @@ lsi         : false
 pygments    : true
 permalink   : none
 markdown    : maruku
+
+title:            'Saeed Abdullah'
+tagline:          ''
+description:      'PhD Student, Information Science, Cornell University. <a href="https://twitter.com/saeed_siam">@saeed_siam</a>'
+url:              saeedabdullah.com
+
+author:
+  name:           'Saeed Abdullah'
+  url:            https://twitter.com/saeed_siam
+
+paginate:         5
