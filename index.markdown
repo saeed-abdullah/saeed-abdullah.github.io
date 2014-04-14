@@ -3,36 +3,21 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+I am a PhD student in [Information Science][info-sci] at Cornell University.
+My advisor is [Tanzeem Choudhury][tanzeem] and I am a member of
+[People-Aware Computing][pac-group] group.
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+Broadly, my research focuses on the design, implementation, and
+deployment of systems to help maintain chronobiological stability. I am exploring
+novel ways to detect disruptions in circadian rhythms, using low-level smartphone
+interaction patterns, for example. I am also working on providing low-cost and
+ubiquitous system to support stability for individuals with serious mental illnesses
+like Bipolar Disorder. Take a look at the projects I am [working on] (/project).
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+If you want to discuss about something, feel free to send an email to
+_me at saeedabdullah.com_
 
+[info-sci]: http://infosci.cornell.edu/
+[pac-group]: http://pac.cs.cornell.edu/
+[tanzeem]: http://www.cs.cornell.edu/~tanzeem/
