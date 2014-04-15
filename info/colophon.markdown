@@ -1,20 +1,18 @@
 ---
 layout: page
+title: Colophon
 ---
 
-<h2>Colophon</h2>
+This websites uses a modified version of [Lanyon][lanyon-theme] theme.
+The typography of the site is inspired from this awesome [interactive
+guide][tommi-typography] by Tommi Kaikkonen.
 
+I use [Jekyll](http://jekyllrb.com) to generate the site. It is hosted and published
+using GitHub pages. You can find the content available at [my GitHub account][github-blog].
 
-I used the design from [Tommi Kaikkonen][tommi-website] who modified the CSS
-originally from [Wordpress Svbtle theme][wp-svbtle]. If you are interested about
-typography you should definitely read [his][tommi-typography] awesome interactive guide.
-
-I use [Jekyll](http://jekyllrb.com) to generate the blog, you can find the content
-available at [github][github-blog].
-
-The CSS file of this blog, as dertivative work of the original Wordpress Svbtle
-theme,
-shares same license --- GPL V2.0. The rest of the content is licensed under [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)][cc-nc-sa] unless explicitly
+The CSS files of the site, as dertivative work of the Lanyon theme,
+shares the same MIT license. The rest of the content is licensed under
+[Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)][cc-nc-sa] unless explicitly
 noted otherwise.
 
 [cc-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/3.0/
@@ -22,4 +20,5 @@ noted otherwise.
 [tommi-website]: http://kaikkonendesign.fi/
 [tommi-typography]: http://kaikkonendesign.fi/typography/
 [wp-svbtle]: http://wp-svbtle.com/
+[lanyon-theme]: http://lanyon.getpoole.com/
 
