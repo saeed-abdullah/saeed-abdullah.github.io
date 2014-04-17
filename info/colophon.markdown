@@ -4,11 +4,11 @@ title: Colophon
 ---
 
 This websites uses a modified version of [Lanyon][lanyon-theme] theme.
-The typography of the site is inspired from this awesome [interactive
+For typography, I borrowed ideas from the awesome [interactive
 guide][tommi-typography] by Tommi Kaikkonen.
 
 I use [Jekyll](http://jekyllrb.com) to generate the site. It is hosted and published
-using GitHub pages. You can find the content available at [my GitHub account][github-blog].
+using GitHub pages. You can find the content available in [my GitHub account][github-blog].
 
 The CSS files of the site, as dertivative work of the Lanyon theme,
 shares the same MIT license. The rest of the content is licensed under
