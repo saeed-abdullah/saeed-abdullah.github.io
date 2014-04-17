@@ -5,6 +5,12 @@ description: Using geo-located images for large scale sentiment analysis.
 project_status: current
 ---
 
+
+<div align="center">
+    <img src="/files/images/twitter-image.png" alt="Twitter New Year Eve image" width="55%"/>
+</div>
+
+
 The increasing adoption of social media has provided a unique opportunity to
 quantitatively characterize human behavior at a broader scale. Status updates
 from Twitter, in particular, have been aggregated for large scale sentiment
