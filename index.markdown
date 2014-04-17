@@ -12,7 +12,7 @@ deployment of systems to help maintain chronobiological stability. I am explorin
 novel ways to detect disruptions in circadian rhythms, using low-level [smartphone
 interaction patterns][clockwise-project], for example. I am also working on providing low-cost and
 ubiquitous system to support stability for individuals with serious mental illnesses
-like [Bipolar Disorder][moodrhythm-project]. Take a look at the projects I am [working on] (/projects).
+like [Bipolar Disorder][moodrhythm-project]. Take a look at the projects I am [working on](/projects).
 
 
 If you want to discuss about something, feel free to send an email to
