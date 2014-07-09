@@ -6,6 +6,9 @@ layout: page
 2014
 ----
 
+* Saeed Abdullah, Mark Matthews, Elizabeth L. Murnane, Geri Gay, and Tanzeem Choudhury.
+<a href="http://pac.cs.cornell.edu/pubs/clockwise-ubicomp-2014.pdf">Towards Circadian Computing: “Early to Bed and Early to Rise” Makes Some of Us Unhealthy and Sleep Deprived.</a> <em> The 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing</em> (<a href="http://ubicomp.org/ubicomp2014/">UbiComp 2014</a>).
+
 * Mark Matthews, Saeed Abdullah, Geri Gay, and Tanzeem Choudhury. <em>Tracking Mental
 Well-Being: Balancing Rich Sensing and Patient Needs</em>. Computer, 47.4(2014).
 [IEEE Computer Society][ieee-computer-2014].
