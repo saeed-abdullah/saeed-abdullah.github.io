@@ -3,6 +3,15 @@ title: Publications
 layout: page
 ---
 
+2015
+----
+*  Saeed Abdullah, Elizabeth L. Murnane, Jean MR Costa, and Tanzeem Choudhury.
+<a href="http://dl.acm.org/citation.cfm?id=2675186">Collective Smile: Measuring Societal Happiness from Geolocated Images.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
+
+* Jaime Snyder, Mark Matthews, Jacqueline Chien, Pamara F Chang, Emily Sun, Saeed Abdullah, Geri Gay
+<a href="http://dl.acm.org/citation.cfm?id=2675191">MoodLight: Exploring Personal and Social Implications of Ambient Display of Biosensor Data.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
+
+
 2014
 ----
 
