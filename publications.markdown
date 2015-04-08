@@ -53,6 +53,18 @@ Appears in the Proceedings of [AAAI 2012][aaai-2012].
 23rd IEEE International Conference on Tools with Artificial Intelligence
 [(ICTAI), 2011][ictai-2011].
 
+2009
+----
+* Anupam Das and Saeed Abdullah. <em>Evolving Multilayer Neural Networks using Permutation free Encoding Technique</em>. In Proceedings of the 2009 International Conference on Artificial Intelligence (ICAI, 2009).
+
+2008
+----
+* Anupam Das, Md. Shohrab Hossain, Saeed Abdullah, and Rashed Ul Islam. <em>Permutation Free Encoding Technique for Evolving Neural Networks</em>. In Proceedings of the 5th international symposium on Neural Networks: Advances in Neural Networks (ISNN, 2008).
+
+
+
+
+
 
 [ieee-computer-2014]: http://www.computer.org/csdl/mags/co/2014/index.html
 [poster-american-college-2013]: http://www.nature.com/npp/journal/v38/n2s/full/npp2013279a.html
