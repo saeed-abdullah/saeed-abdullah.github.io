@@ -10,7 +10,7 @@ My advisor is [Tanzeem Choudhury][tanzeem] and I am a member of
 My work, on a broad scale, focuses on providing technology-mediated care in
 the context of mental health. In this new model of care, the goal is to detect
 early warning signs and provide intervention even before relapse happens ---
-moving from reactive to preemptive care. Towards that, I focus on circadian
+moving from reactive to _preemptive care_. Towards that, I focus on circadian
 and behavioral trends --- identifying anomalies in key daily behavior that
 might be indicative of relapse, for example.
 
