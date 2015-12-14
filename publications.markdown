@@ -30,9 +30,11 @@ Extended abstract presented in Doctoral School, [UbiComp 2013][ubicomp-doctoral-
 * Frank. E, Matthews, M., Choudhury, T., Voida, S. & Abdullah, S.
 <em>Developing a Smart Phone App to Monitor Mood, Social Rhythms, Sleep and Social Activity: Technology to Support Effective Management of Bipolar Disorder</em>.
 Accepted Poster to [American College of Neuropsychopharmacology][poster-american-college-2013].
+
 * Snyder, J., Matthew, M., Abdullah, S., Chien, J., Sun, E., Gay, G.
 <em>Light, Color, Affect, and Stress</em>.
 Annual Meeting of the Society for Social Studies of Science (4S), San Diego, CA, October 2013.
+
 * Voida, S., Matthews, M., Abdullah, S., Chi, M., Green, M., Jang, W.J., Hu, D.,
 Weinrich, J., Patil, P., Rabbi, M., Rahman, T., Gay, G., Frank, E. & Choudhury, T.
 <em> MoodRhythm: Tracking and supporting daily rhythms</em>.
