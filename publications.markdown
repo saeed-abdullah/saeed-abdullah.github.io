@@ -5,6 +5,16 @@ layout: page
 
 2015
 ----
+* Saeed Abdullah, Mark Matthews, Ellen Frank, Gavin Doherty, Geri Gay, Tanzeem Choudhury. <a href="#"> Automatic detection of social rhythms in Bipolar Disorder</a>. <em>Journal of the American Medical Informatics Association</em> (<a href="http://jamia.oxfordjournals.org/">JAMIA</a>). <em>In Press</em>.
+
+* Dror Ben-Zeev, Rui Wang, Saeed Abdullah, Rachel Brian, Emily Scherer, Lisa Mistler, Marta Hauser, John Kane, Andrew Campbell, Tanzeem Choudhury. <a href="#">Mobile Behavioral Sensing in Outpatients and Inpatients with Schizophrenia</a>. <em>Psychiatric Services</em>. <em>In Press</em>.
+
+* Saeed Abdullah. <a href="https://dl.acm.org/citation.cfm?id=2801657">Towards circadian computing: a sensing & intervention framework for BodyClock friendly technology</a>. <em>In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers</em> (<a href="http://ubicomp.org/ubicomp2015/">UbiComp 2015</a>).
+
+* Elizabeth L. Murnane, Saeed Abdullah, Mark Matthews, Tanzeem Choudhury, and Geri Gay. <a href ="https://dl.acm.org/citation.cfm?id=2807522">Social (media) jet lag: How usage of social technology can modulate and reflect circadian rhythms</a>. <em>In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers</em> (<a href="http://ubicomp.org/ubicomp2015/">UbiComp 2015</a>).
+
+* Mark Matthews, Stephen Voida, Saeed Abdullah, Gavin Doherty, Tanzeem Choudhury, Sangha Im, and Geri Gay. <a href="https://dl.acm.org/citation.cfm?id=2785866">In Situ Design for Mental Illness: Considering the Pathology of Bipolar Disorder in mHealth Designi</a>. <em>In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services</em> (<a href="http://mobilehci.acm.org/2015/"> MobileHCI, 2015</a>).
+
 *  Saeed Abdullah, Elizabeth L. Murnane, Jean MR Costa, and Tanzeem Choudhury.
 <a href="http://dl.acm.org/citation.cfm?id=2675186">Collective Smile: Measuring Societal Happiness from Geolocated Images.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
 
@@ -30,9 +40,11 @@ Extended abstract presented in Doctoral School, [UbiComp 2013][ubicomp-doctoral-
 * Frank. E, Matthews, M., Choudhury, T., Voida, S. & Abdullah, S.
 <em>Developing a Smart Phone App to Monitor Mood, Social Rhythms, Sleep and Social Activity: Technology to Support Effective Management of Bipolar Disorder</em>.
 Accepted Poster to [American College of Neuropsychopharmacology][poster-american-college-2013].
+
 * Snyder, J., Matthew, M., Abdullah, S., Chien, J., Sun, E., Gay, G.
 <em>Light, Color, Affect, and Stress</em>.
 Annual Meeting of the Society for Social Studies of Science (4S), San Diego, CA, October 2013.
+
 * Voida, S., Matthews, M., Abdullah, S., Chi, M., Green, M., Jang, W.J., Hu, D.,
 Weinrich, J., Patil, P., Rabbi, M., Rahman, T., Gay, G., Frank, E. & Choudhury, T.
 <em> MoodRhythm: Tracking and supporting daily rhythms</em>.
