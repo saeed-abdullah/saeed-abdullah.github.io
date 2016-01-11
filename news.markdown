@@ -9,9 +9,11 @@ layout: page
 
 * _November, 2015_: Our article on detecting social rhythms instability of patients with bipolar disorder has been accepted by [JAMIA](http://jamia.oxfordjournals.org/).
 
-* _September, 5 – 11_: I had a great time in Osaka for UbiComp 2015.  We had one paper on using [social media to infer jet lag](http://dl.acm.org/citation.cfm?id=2807522). I also presented my work in doctoral school.
+* _September 5 – 11, 2015_: I had a great time in Osaka for UbiComp 2015.  We had one paper on using [social media to infer jet lag](http://dl.acm.org/citation.cfm?id=2807522). I also presented my work in doctoral school.
 
-* _August, 2015_: I will be at Microsoft Research working with [Mary Czerwinski](http://research.microsoft.com/en-us/people/marycz/) during the fall.
+* _August 29th, 2015_: I will be at Microsoft Research working with [Mary Czerwinski](http://research.microsoft.com/en-us/people/marycz/) during the fall.
+
+* _August 11 — 12, 2015_: Traveled to Portland to join the annual [ISTC-PC](http://istc-pc.washington.edu/) retreat.
 
 * _July, 2015_: Our paper on behavioral sensing of outpatients and inpatients with Schizophrenia by [Psychiatric Services](http://ps.psychiatryonline.org/doi/full/10.1176/appi.ps.201500130).
 
