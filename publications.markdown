@@ -3,17 +3,27 @@ title: Publications
 layout: page
 ---
 
+2016
+----
+
+* Eun Kyoung Choe, Saeed Abdullah, Mashfiqui Rabbi, Edison Thomaz, Daniel A. Epstein, Matthew Kay, Felicia Cordeiro, Gregory D. Abowd, Tanzeem Choudhury, James Fogarty, Bongshin Lee, Mark Matthews, and Julie A. Kientz. <a href="#"> Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications</a>. IEEE Pervasive <em>(In Press)</em>.
+
+* Saeed Abdullah, Elizabeth L. Murnane, Mark Matthews and Tanzeem Choudhury. <a href="#">Circadian Computing: Sensing, Modeling, and Maintaining Biological Rhythms</a>. Book Chapter <em>(In Press)</em>.
+
+
 2015
 ----
-* Saeed Abdullah, Mark Matthews, Ellen Frank, Gavin Doherty, Geri Gay, Tanzeem Choudhury. <a href="#"> Automatic detection of social rhythms in Bipolar Disorder</a>. <em>Journal of the American Medical Informatics Association</em> (<a href="http://jamia.oxfordjournals.org/">JAMIA</a>). <em>In Press</em>.
+* Saeed Abdullah, Mark Matthews, Ellen Frank, Gavin Doherty, Geri Gay, Tanzeem Choudhury. <a href="http://dx.doi.org/10.1093/jamia/ocv200"> Automatic detection of social rhythms in Bipolar Disorder</a>. <em>Journal of the American Medical Informatics Association (JAMIA)</em>.
 
-* Dror Ben-Zeev, Rui Wang, Saeed Abdullah, Rachel Brian, Emily Scherer, Lisa Mistler, Marta Hauser, John Kane, Andrew Campbell, Tanzeem Choudhury. <a href="#">Mobile Behavioral Sensing in Outpatients and Inpatients with Schizophrenia</a>. <em>Psychiatric Services</em>. <em>In Press</em>.
+* Dror Ben-Zeev, Rui Wang, Saeed Abdullah, Rachel Brian, Emily Scherer, Lisa Mistler, Marta Hauser, John Kane, Andrew Campbell, Tanzeem Choudhury. <a href="http://dx.doi.org/10.1176/appi.ps.201500130">Mobile Behavioral Sensing in Outpatients and Inpatients with Schizophrenia</a>. <em>Psychiatric Services</em>.
+
+* Ellen Frank, Saeed Abdullah, Mark Matthews, Tanzeem Choudhury. <a href="http://www.nature.com/npp/journal/v40/n1s/full/npp2015325a.html">Automatic Detection of Social Rhythms in Bipolar Disorder via Smartphone</a>. Poster presented at <em>American College of Neuropsychopharmacology (ACNP)</em>.
 
 * Saeed Abdullah. <a href="https://dl.acm.org/citation.cfm?id=2801657">Towards circadian computing: a sensing & intervention framework for BodyClock friendly technology</a>. <em>In Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers</em> (<a href="http://ubicomp.org/ubicomp2015/">UbiComp 2015</a>).
 
 * Elizabeth L. Murnane, Saeed Abdullah, Mark Matthews, Tanzeem Choudhury, and Geri Gay. <a href ="https://dl.acm.org/citation.cfm?id=2807522">Social (media) jet lag: How usage of social technology can modulate and reflect circadian rhythms</a>. <em>In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers</em> (<a href="http://ubicomp.org/ubicomp2015/">UbiComp 2015</a>).
 
-* Mark Matthews, Stephen Voida, Saeed Abdullah, Gavin Doherty, Tanzeem Choudhury, Sangha Im, and Geri Gay. <a href="https://dl.acm.org/citation.cfm?id=2785866">In Situ Design for Mental Illness: Considering the Pathology of Bipolar Disorder in mHealth Designi</a>. <em>In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services</em> (<a href="http://mobilehci.acm.org/2015/"> MobileHCI, 2015</a>).
+* Mark Matthews, Stephen Voida, Saeed Abdullah, Gavin Doherty, Tanzeem Choudhury, Sangha Im, and Geri Gay. <a href="https://dl.acm.org/citation.cfm?id=2785866">In Situ Design for Mental Illness: Considering the Pathology of Bipolar Disorder in mHealth Design</a>. <em>In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services</em> (<a href="http://mobilehci.acm.org/2015/"> MobileHCI, 2015</a>).
 
 *  Saeed Abdullah, Elizabeth L. Murnane, Jean MR Costa, and Tanzeem Choudhury.
 <a href="http://dl.acm.org/citation.cfm?id=2675186">Collective Smile: Measuring Societal Happiness from Geolocated Images.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
