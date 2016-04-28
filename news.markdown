@@ -3,6 +3,8 @@ title: News
 layout: page
 ---
 
+
+* _February, 2016_: We did a webinar on our recent work about [circadian rhythms and alertness](http://hdexplore.calit2.net/webinar-21116/).
 <!-- 2015
 ----
 -->
