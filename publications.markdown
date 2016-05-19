@@ -6,6 +6,12 @@ layout: page
 2016
 ----
 
+* Mark Matthews, Saeed Abdullah, Geri Gay, Tanzeem Choudhury. <a href="#">Detecting and Capitalizing on Physiological Dimensions of Psychiatric Illness</a>. <em>Conference on Physiological Computing Systems</em>. <a href="http://www.phycs.org/">PhyCS, 2016</a>.
+
+* Mark Matthews, Elizabeth Murnane, Saeed Abdullah, Steven Voida, Tanzeem Choudhury, Geri Gay, Ellen Frank. <a href="#">Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder</a>. <em>Special Issue of Assessment on measuring, modeling, and implementing dynamic processes</em>. <a href="https://us.sagepub.com/en-us/nam/assessment/journal201629">Assessment (ASM)</a> <em>(In Press)</em>.
+
+* Elizabeth Murnane, Saeed Abdullah, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, Tanzeem Choudhury, Dan Cosley. <a href="#">Mobile Manifestations of Circadian Rhythms of Attention</a>. Accepted in <a href="http://mobilehci.acm.org/2016/">MobileHCI, 2016</a>.
+
 * Eun Kyoung Choe, Saeed Abdullah, Mashfiqui Rabbi, Edison Thomaz, Daniel A. Epstein, Matthew Kay, Felicia Cordeiro, Gregory D. Abowd, Tanzeem Choudhury, James Fogarty, Bongshin Lee, Mark Matthews, and Julie A. Kientz. <a href="#"> Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications</a>. IEEE Pervasive <em>(In Press)</em>.
 
 * Saeed Abdullah, Elizabeth L. Murnane, Mark Matthews and Tanzeem Choudhury. <a href="#">Circadian Computing: Sensing, Modeling, and Maintaining Biological Rhythms</a>. Book Chapter <em>(In Press)</em>.
