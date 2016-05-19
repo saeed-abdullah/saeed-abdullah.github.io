@@ -1,8 +1,6 @@
 ---
-auto        : false
 safe        : true
 lsi         : false
-pygments    : true
 permalink   : none
 markdown    : kramdown
 
@@ -15,4 +13,4 @@ author:
   name:           'Saeed Abdullah'
   url:            https://twitter.com/saeed_siam
 
-paginate:         5
+# paginate:         5
