@@ -45,7 +45,7 @@ title:
 
 <div class="row">
     <div class="col-md-12 text-center">
-        <h2>Mental Health</h2>
+        <h1>Mental Health</h1>
         <hr>
     </div>
 </div>
@@ -82,7 +82,7 @@ title:
 
 <div class="row">
     <div class="col-md-12 text-center">
-        <h2>Old projects</h2>
+        <h1>Old projects</h1>
         <hr>
     </div>
 </div>
