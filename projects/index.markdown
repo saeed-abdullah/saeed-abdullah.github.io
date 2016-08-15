@@ -19,7 +19,7 @@ title:
     </div>
 
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/place-holder.jpg" ></a>
+        <a href="#"><img src="/files/images/passive-sensing.jpg" ></a>
         <h3><a href="#">Passive Sensing of Sleep Behavior & Circadian Disruptions</a></h3>
         <p>What does your phone and social media usage tell about you? We use these patterns to  identify sleep behavior and circadian disruptions including social jet lag.</p>
     </div>
@@ -28,7 +28,7 @@ title:
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/place-holder.jpg" class="img-responsive"></a>
+        <a href="#"><img src="/files/images/cognitive-performance-1.jpg" class="img-responsive"></a>
         <h3><a href="#">Rhythms of Our Cognitive Performance</a></h3>
         <p>Our cognitive ability waxes and wanes over time. Continuous assessment of such fluctuations can enable new technology supporting our individual rhythms.</p>
     </div>
@@ -53,7 +53,7 @@ title:
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/place-holder.jpg" ></a>
+        <a href="#"><img src="/files/images/mood-rhythm.jpg" ></a>
         <h3><a href="#">MoodRhythm: Effective Management of Bipolar Disorder</a></h3>
         <p>Sleep and circadian rhythm disruptions can result in illness onset in bipolar disorder. MoodRhythm app helps to regularize daily routine for circadian stability.</p>
     </div>
