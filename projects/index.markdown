@@ -59,7 +59,7 @@ title:
     </div>
 
     <div class="col-lg-6">
-        <a href="campus-life.html"><img src="/files/images/place-holder.jpg" class="img-responsive"></a>
+        <a href="campus-life.html"><img src="/files/images/campus-life.jpg" class="img-responsive"></a>
         <h3><a href="campus-life.html">CampusLife: Mental Health and Well-being on College Campus</a></h3>
         <p>Around 32% of college students suffer from serious mental health issues. Tools for automated assessment of mental health can enable effective intervention.</p>
     </div>
@@ -68,7 +68,7 @@ title:
 <div class="row">
 
     <div class="col-lg-6">
-        <a href="eureka.html"><img src="/files/images/place-holder.jpg" ></a>
+        <a href="eureka.html"><img src="/files/images/eureka.jpg" ></a>
         <h3><a href="eureka.html">EUREKA: Preventing Relapse in Schizophrenia</a></h3>
         <p>Using phone sensors for low-cost, low-burden and longitudinal tracking of behavioral cues and early detection of relapse in patients with schizophrenia.</p>
     </div>
@@ -90,13 +90,13 @@ title:
 <div class="row">
 
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/place-holder.jpg" ></a>
+        <a href="#"><img src="/files/images/csn.jpg" ></a>
         <h3><a href="#">Towards Population Scale Activity Recognition</a></h3>
         <p>An activity classification framework that is scalable and can handle the diversity in user population by leveraging crowd-sourced data labels.</p>
     </div>
 
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/place-holder.jpg" ></a>
+        <a href="#"><img src="/files/images/social-media-image.jpg" ></a>
         <h3><a href="#">Selfie of Societal Happiness</a></h3>
         <p>Using geolocated images from Twitter to determine patterns of public sentiment, and to sense underlying societal events and community characteristics.</p>
     </div>
