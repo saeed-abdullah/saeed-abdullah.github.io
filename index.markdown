@@ -7,25 +7,29 @@ I am a PhD student in [Information Science][info-sci] at Cornell University.
 My advisor is [Tanzeem Choudhury][tanzeem] and I am a member of
 [People-Aware Computing][pac-group] group.
 
-My work, on a broad scale, focuses on providing technology-mediated care in
-the context of mental health. In this new model of care, the goal is to detect
-early warning signs and provide intervention even before relapse happens ---
-moving from reactive to _preemptive care_. Towards that, I focus on circadian
-and behavioral trends --- identifying anomalies in key daily behavior that
-might be indicative of relapse, for example.
+My work is focused on developing novel Ubiquitous Computing systems that
+support our health and overall well-being. In particular, my research is among
+the first to advance a vision for “_Circadian Computing_” — technologies
+that support and adapt to our innate biological rhythms. Almost every
+biological process follows a roughly 24-hour rhythm known as a circadian rhythm.
+Living against our body clocks can have grave consequences for physical and
+mental well-being with an increased risk for cancer, diabetes, cardiovascular
+disease, and mental illness. Moreover, these issues are reaching an epidemic
+level — a significant fraction of the global population persistently live
+against their innate rhythms.
 
-I design, develop and deploy smartphone based sensing systems for automated
-detection and intervention. Our systems are currently being used in the
-context of Serious Mental Illness (SMI) including
-[Bipolar Disorder][moodrhythm-project] and [Schizophrenia][eureka-project].
-Beyond SMI, I am also interested in understanding the effect of disruptions
-on the human body clock and [supporting circadian stability][clockwise-project]
-in the general population. Take a look at the projects I am
+In my work, I have developed methods for passively assessing body clock
+patterns, detecting the effects of disruptions using behavioral and
+contextual data, and designing tools to maintain healthy rhythms.
+I have applied these methods across a diverse set of domains: [sleep][sleep],
+[cognitive performance][alertness], [creativity][creativity], and
+serious mental illness including [bipolar disorder][moodrhythm-project] and
+[schizophrenia][eureka-project]. Take a look at the projects I am
 [working on](/projects).
 
 
 If you want to discuss about something, feel free to send an email to
-_me at saeedabdullah.com_
+_sma249@cornell.edu_.
 
 [info-sci]: http://infosci.cornell.edu/
 [pac-group]: http://pac.cs.cornell.edu/
@@ -33,3 +37,6 @@ _me at saeedabdullah.com_
 [clockwise-project]: projects/clockwise.html
 [moodrhythm-project]: projects/mood-rhythm.html
 [eureka-project]: projects/eureka.html
+[alertness]: projects/alertness-performance.html
+[creativity]: projects/creativity.html
+[sleep]: projects/cr-distruption-phone-sensing.html
