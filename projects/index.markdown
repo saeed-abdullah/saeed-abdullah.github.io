@@ -28,8 +28,8 @@ title:
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="alertness-performance.html"><img src="/files/images/cognitive-performance-1.jpg" class="img-responsive"></a>
-        <h3><a href="alertness-performance.html">Rhythms of Our Cognitive Performance</a></h3>
+        <a href="alertness-performance.html"><img src="/files/images/cognitive-rhythm.jpg" class="img-responsive"></a>
+        <h3><a href="alertness-performance.html">Rhythms of Cognitive Performance</a></h3>
         <p>Our cognitive ability waxes and wanes over time. Continuous assessment of such fluctuations can enable new technology supporting our individual rhythms.</p>
     </div>
 

@@ -1,12 +1,12 @@
 ---
-title: Rhythms of Our Cognitive Performance
+title: Rhythms of Cognitive Performance
 layout: page
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/cognitive-performance-1.jpg"/>
+            <img src="/files/images/cognitive-rhythm.jpg"/>
         </div>
     </div>
 </div>
