@@ -8,7 +8,7 @@ layout: page
 
 * Mark Matthews, Saeed Abdullah, Geri Gay, Tanzeem Choudhury. <a href="#">Detecting and Capitalizing on Physiological Dimensions of Psychiatric Illness</a>. <em>Conference on Physiological Computing Systems</em>. <a href="http://www.phycs.org/">PhyCS, 2016</a>.
 
-* Mark Matthews, Elizabeth Murnane, Saeed Abdullah, Steven Voida, Tanzeem Choudhury, Geri Gay, Ellen Frank. <a href="#">Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder</a>. <em>Special Issue of Assessment on measuring, modeling, and implementing dynamic processes</em>. <a href="https://us.sagepub.com/en-us/nam/assessment/journal201629">Assessment (ASM)</a> <em>(In Press)</em>.
+* Mark Matthews, Saeed Abdullah, Elizabeth Murnane, Steven Voida, Tanzeem Choudhury, Geri Gay, Ellen Frank. <a href="#">Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder</a>. <em>Special Issue of Assessment on measuring, modeling, and implementing dynamic processes</em>. <a href="https://us.sagepub.com/en-us/nam/assessment/journal201629">Assessment (ASM)</a> <em>(In Press)</em>.
 
 * Elizabeth Murnane, Saeed Abdullah, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, Tanzeem Choudhury, Dan Cosley. <a href="#">Mobile Manifestations of Circadian Rhythms of Attention</a>. Accepted in <a href="http://mobilehci.acm.org/2016/">MobileHCI, 2016</a>.
 
