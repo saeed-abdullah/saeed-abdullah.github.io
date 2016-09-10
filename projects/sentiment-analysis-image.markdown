@@ -1,14 +1,17 @@
 ---
 title: Selfie of Societal Happiness
 layout: page
-description: Using geo-located images for large scale sentiment analysis.
-project_status: current
 ---
 
+<div class="row">
 
-<div align="center">
-    <img src="/files/images/twitter-image.png" alt="Twitter New Year Eve image" width="55%"/>
+    <div class="col-md-12">
+        <div class="col-xs-offset-1 col-md-10">
+            <img src="/files/images/social-media-image.jpg"/>
+        </div>
+    </div>
 </div>
+
 
 
 The increasing adoption of social media has provided a unique opportunity to
@@ -23,3 +26,9 @@ and to sense underlying societal events and community characteristics. Comparing
 NLP techniques which are often very tightly coupled with specific language,
 image content based systems allows cross-cultural sentiment analysis.
 
+## Papers ##
+*  Saeed Abdullah, Elizabeth L. Murnane, Jean MR Costa, and Tanzeem Choudhury.
+<a href="http://dl.acm.org/citation.cfm?id=2675186">Collective Smile: Measuring Societal Happiness from Geolocated Images.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
+
+## Supplementary materials ##
+* CSCW presentation:
