@@ -53,8 +53,8 @@ title:
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/mood-rhythm.jpg" ></a>
-        <h3><a href="#">MoodRhythm: Effective Management of Bipolar Disorder</a></h3>
+        <a href="mood-rhythm.html"><img src="/files/images/mood-rhythm.jpg" ></a>
+        <h3><a href="mood-rhythm.html">MoodRhythm: Effective Management of Bipolar Disorder</a></h3>
         <p>Sleep and circadian rhythm disruptions can result in illness onset in bipolar disorder. MoodRhythm app helps to regularize daily routine for circadian stability.</p>
     </div>
 
@@ -73,11 +73,13 @@ title:
         <p>Using phone sensors for low-cost, low-burden and longitudinal tracking of behavioral cues and early detection of relapse in patients with schizophrenia.</p>
     </div>
 
+    <!--
     <div class="col-lg-6">
         <a href="#"><img src="/files/images/place-holder.jpg" ></a>
         <h3><a href="#">MedRisk: Identifying Early-Warning Signs in Bipolar Disorder</a></h3>
         <p>We are developing a computational framework for identifying early warning signs of relapse based on longitudinal data collected from 122 patients.</p>
     </div>
+    -->
 </div>
 
 <div class="row">
@@ -90,14 +92,14 @@ title:
 <div class="row">
 
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/csn.jpg" ></a>
-        <h3><a href="#">Towards Population Scale Activity Recognition</a></h3>
+        <a href="csn.html"><img src="/files/images/csn.jpg" ></a>
+        <h3><a href="csn.html">Towards Population Scale Activity Recognition</a></h3>
         <p>An activity classification framework that is scalable and can handle the diversity in user population by leveraging crowd-sourced data labels.</p>
     </div>
 
     <div class="col-lg-6">
-        <a href="#"><img src="/files/images/social-media-image.jpg" ></a>
-        <h3><a href="#">Selfie of Societal Happiness</a></h3>
+        <a href="sentiment-analysis-image.html"><img src="/files/images/social-media-image.jpg" ></a>
+        <h3><a href="sentiment-analysis-image.html">Selfie of Societal Happiness</a></h3>
         <p>Using geolocated images from Twitter to determine patterns of public sentiment, and to sense underlying societal events and community characteristics.</p>
     </div>
 </div>
