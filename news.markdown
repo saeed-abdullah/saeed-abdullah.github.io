@@ -3,11 +3,14 @@ title: News
 layout: page
 ---
 
-
+* _September, 2016_: Looking forward to UbiComp. We have got [three papers](publications.html) accepted this year.
+* _September, 2016_: We have got [a best paper award](#) in MobileHCI!
+* _August, 2016_: We are organizing a [workshop focusing on mental health](https://ubicomp-mental-health.github.io/workshop-2016.html) in this year's UbiComp.
+* _July, 2016_: I have been selected to participate in [HDE Summer Institute](http://hdexplore.calit2.net/hde-summer-institute-2016/)!
 * _February, 2016_: We did a webinar on our recent work about [circadian rhythms and alertness](http://hdexplore.calit2.net/webinar-21116/).
-<!-- 2015
+
+2015
 ----
--->
 
 * _November, 2015_: Our article on detecting social rhythms instability of patients with bipolar disorder has been accepted by [JAMIA](http://jamia.oxfordjournals.org/).
 
