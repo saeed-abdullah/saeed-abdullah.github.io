@@ -1,9 +1,18 @@
 ---
 title: Towards Population Scale Activity Recognition
 layout: page
-description: A Framework for Handling Data Diversity
-project_status: old
 ---
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="col-xs-offset-1 col-md-10">
+            <img src="/files/images/csn.jpg"/>
+        </div>
+    </div>
+</div>
+
+
 
 The rising popularity of the sensor-equipped smartphone is changing the possible
 scale and scope of human activity inference. The diversity in user population
@@ -23,3 +32,9 @@ errors introduced by low-commitment everyday users. Experiment results on a larg
 public dataset demonstrate that the framework can cope with population diversity
 irrespective of population size.
 
+## Papers ##
+* Saeed Abdullah, Nicholas Lane, and Tanzeem Choudhury.
+<em>Towards Population Scale Activity Recognition: A Scalable Framework for Handling Data Diversity</em>.
+Appears in the Proceedings of [AAAI 2012][aaai-2012].
+
+[aaai-2012]: http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/5169/5491
