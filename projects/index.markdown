@@ -12,7 +12,7 @@ title:
 
 <div class="row">
     <div class="col-lg-6">
-        <a href="clockwise.html"><img src="/files/images/place-holder.jpg" ></a>
+        <a href="clockwise.html"><img src="/files/images/clockwise-1.jpg" ></a>
         <h3><a href="clockwise.html">ClockWise: Towards Circadian Aware Technology</a></h3>
         <p>Advancing a vision for "<em>Circadian Computing</em>" — designing, developing and deploying novel technology that helps to maintain our innate biological rhythms.</p>
 
