@@ -5,6 +5,11 @@ layout: page
 
 2016
 ----
+* Saeed Abdullah, Elizabeth Murnane, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, and Tanzeem Choudhury. <a href="https://dl.acm.org/citation.cfm?doid=2971648.2971712">Cognitive rhythms: unobtrusive and continuous sensing of alertness using a mobile phone</a>. UbiComp, 2016.
+
+* Saeed Abdullah, Mary Czerwinski, Gloria Mark, and Paul Johns. <a href="https://dl.acm.org/citation.cfm?doid=2971648.2971751">Shining (blue) light on creative ability</a>. UbiComp, 2016.
+
+* Rui Wang, Min S.H. Aung, Saeed Abdullah, Dror Ben-Zeev, Rachel Brian, Andrew T Campbell, Tanzeem Choudhury, Marta Hauser, John Kane, Michael Merrill, Emily Scherer, and Vincent Wen-Sheng Tseng. <a href="https://dl.acm.org/citation.cfm?doid=2971648.2971740">CrossCheck: Toward passive sensing and detection of mental health changes in people with schizophrenia</a>. UbiComp, 2016.
 
 * <i class="fa fa-trophy" aria-hidden="true"></i> Elizabeth Murnane, Saeed Abdullah, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, Tanzeem Choudhury, Dan Cosley. <a href="https://dl.acm.org/citation.cfm?id=2935383">Mobile Manifestations of Circadian Rhythms of Attention</a>. MobileHCI, 2016. **Best paper award (top 2 papers)**.
 
