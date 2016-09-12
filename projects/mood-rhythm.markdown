@@ -35,7 +35,7 @@ valuable information back to their physicians.
 
 * Saeed Abdullah, Mark Matthews, Ellen Frank, Gavin Doherty, Geri Gay, Tanzeem Choudhury. <a href="http://dx.doi.org/10.1093/jamia/ocv200"> Automatic detection of social rhythms in Bipolar Disorder</a>. <em>Journal of the American Medical Informatics Association (JAMIA)</em>.
 
-* Mark Matthews, Stephen Voida, Saeed Abdullah, Gavin Doherty, Tanzeem Choudhury, Sangha Im, and Geri Gay. <a href="https://dl.acm.org/citation.cfm?id=2785866">In Situ Design for Mental Illness: Considering the Pathology of Bipolar Disorder in mHealth Design</a>. <em>In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services</em> (<a href="http://mobilehci.acm.org/2015/"> MobileHCI, 2015</a>).
+* Mark Matthews, Stephen Voida, Saeed Abdullah, Gavin Doherty, Tanzeem Choudhury, Sangha Im, and Geri Gay. <a href="https://dl.acm.org/citation.cfm?id=2785866">In Situ Design for Mental Illness: Considering the Pathology of Bipolar Disorder in mHealth Design</a>. <em>In Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services</em> (<a href="http://mobilehci.acm.org/2015/">MobileHCI, 2015</a>).
 
 
 ## Supplementary Materials ##
