@@ -24,5 +24,4 @@ In our study, we investigated the effects of blue light on enhancing creativity 
 
 
 ## Supplementary materials ##
-* UbiComp 2016 presentation:
-* GitHub repository:
+* [GitHub repository](https://github.com/saeed-abdullah/creativity-ubicomp-2016)
