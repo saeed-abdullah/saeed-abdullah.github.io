@@ -1,5 +1,5 @@
 ---
-title: Shining (Blue) Light on Creativity
+title: Improving Creativity
 layout: page
 ---
 

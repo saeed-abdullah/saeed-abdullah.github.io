@@ -1,5 +1,5 @@
 ---
-title: Towards Population Scale Activity Recognition
+title: Population Scale Activity Recognition
 layout: page
 ---
 

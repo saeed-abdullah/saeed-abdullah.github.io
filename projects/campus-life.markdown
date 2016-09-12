@@ -1,5 +1,5 @@
 ---
-title: "CampusLife: Mental Health and Well-being on College Campus"
+title: "CampusLife: Mental Health and Well-being on College Campuses"
 layout: page
 ---
 

@@ -35,7 +35,7 @@ title:
 
     <div class="col-lg-6">
         <a href="creativity.html"><img src="/files/images/mood-light.jpg" ></a>
-        <h3><a href="creativity.html">Shining (Blue) Light on Creative Ability</a></h3>
+        <h3><a href="creativity.html">Improving Creativity</a></h3>
         <p>Using blue light (&asymp; 480 nm) to improve convergent thinking — a critical component of our overall creative ability.</p>
     </div>
 
@@ -60,7 +60,7 @@ title:
 
     <div class="col-lg-6">
         <a href="campus-life.html"><img src="/files/images/campus-life.jpg" class="img-responsive"></a>
-        <h3><a href="campus-life.html">CampusLife: Mental Health and Well-being on College Campus</a></h3>
+        <h3><a href="campus-life.html">CampusLife: Mental Health and Well-being on College Campuses</a></h3>
         <p>Around 32% of college students suffer from serious mental health issues. Tools for automated assessment of mental health can enable effective intervention.</p>
     </div>
 </div>
@@ -93,7 +93,7 @@ title:
 
     <div class="col-lg-6">
         <a href="csn.html"><img src="/files/images/csn.jpg" ></a>
-        <h3><a href="csn.html">Towards Population Scale Activity Recognition</a></h3>
+        <h3><a href="csn.html">Population Scale Activity Recognition</a></h3>
         <p>An activity classification framework that is scalable and can handle the diversity in user population by leveraging crowd-sourced data labels.</p>
     </div>
 
