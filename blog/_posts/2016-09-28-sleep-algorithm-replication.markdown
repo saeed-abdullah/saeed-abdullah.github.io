@@ -45,7 +45,7 @@ In our study, we evaluated the algorithm using data from 9 participants over
 However, all our participants were students and from 18–24 age range.
 
 The data used by Andrea et al., on the other hand, was collected by Sony
-Mobile from 126 participants over 2—4 weeks. For ground-truth, they use
+Mobile from 126 participants over 2–4 weeks. For ground-truth, they use
 sleep data from wearables instead of journals as we did in our study.
 So, the high accuracy of our algorithm in this new and potentially more
 diverse dataset indicates that it is quite robust.
@@ -57,7 +57,7 @@ to adopt it for passive and automated sleep assessment when the population
 mostly consists of phone users.
 
 On a broader note, I think, these results also serve as a reminder about the
-usefulness of "soft-sensing" — data about how we use our digital devices. Given
+usefulness of _soft-sensing_ — data about how we use our digital devices. Given
 much of our daily behavior now gets mediated through these devices, it is of
 no surprise that soft-sensing can provide a unique insights about our
 behavior and contexts.
