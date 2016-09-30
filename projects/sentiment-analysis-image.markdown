@@ -31,4 +31,4 @@ image content based systems allows cross-cultural sentiment analysis.
 <a href="http://dl.acm.org/citation.cfm?id=2675186">Collective Smile: Measuring Societal Happiness from Geolocated Images.</a> <em>In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</em> (<a href="http://cscw.acm.org/2015/">CSCW 2015</a>).
 
 ## Supplementary materials ##
-* CSCW presentation:
+* [CSCW presentation](https://dl.dropboxusercontent.com/u/6286713/permlinks/cscw-2015.pdf)
