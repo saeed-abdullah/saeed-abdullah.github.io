@@ -48,3 +48,4 @@ Symposium on Wearable Computers_
 
 ## Supplementary Materials ##
 * [UbiComp 2014 presentation](https://dl.dropboxusercontent.com/u/6286713/permlinks/talk-ubicomp-2014.pdf)
+* [Large scale replication study confirms high accuracy of our phone usage based sleep algorithm](http://saeedabdullah.com/blog/sleep-algorithm-replication.html)
