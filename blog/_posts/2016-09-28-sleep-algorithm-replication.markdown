@@ -53,13 +53,13 @@ diverse dataset indicates that it is quite robust.
 I am really glad that they decided to replicate our algorithm on this new
 dataset. Given that the algorithm achieves high accuracy but is very low cost
 (both data and computation wise), I hope these findings will encourage others
-to adopt it for passive and automated sleep assessment when the population
-mostly consists of phone users.
+to adopt it for passive and automated sleep assessment in populations
+mostly comprised of phone users.
 
 On a broader note, I think, these results also serve as a reminder about the
 usefulness of _soft-sensing_ — data about how we use our digital devices. Given
 much of our daily behavior now gets mediated through these devices, it is of
-no surprise that soft-sensing can provide a unique insights about our
+no surprise that soft-sensing can provide unique insights about our
 behavior and contexts.
 
 
