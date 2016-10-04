@@ -6,7 +6,7 @@ layout: post
 What can your phone say about you? A lot, particularly
 [when it comes to sleep](/projects/cr-distruption-phone-sensing.html).
 
-A recent paper from [Andrea et al.][andrea-arxiv] replicated our phone usage based
+A recent paper from [Cuttone et al.][andrea-arxiv] replicated our phone usage based
 sleep algorithm from the [UbiComp 2014 paper][ubicomp-2014].  Based on the
 data from 126 participants, they found that our algorithm performs similarly
 to their proposed Bayesian model with remarkable accuracy and precision for
@@ -44,7 +44,7 @@ In our study, we evaluated the algorithm using data from 9 participants over
 97 days and found that it can accurately assess sleep onset and duration.
 However, all our participants were students and from 18–24 age range.
 
-The data used by Andrea et al., on the other hand, was collected by Sony
+The data used by Cuttone et al., on the other hand, was collected by Sony
 Mobile from 126 participants over 2–4 weeks. For ground-truth, they use
 sleep data from wearables instead of journals as we did in our study.
 So, the high accuracy of our algorithm in this new and potentially more
