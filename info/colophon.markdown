@@ -11,9 +11,9 @@ I use [Jekyll](http://jekyllrb.com) to generate the site. It is hosted and publi
 using GitHub pages. You can find the content available in [my GitHub account][github-blog].
 
 The CSS files of the site, as dertivative work of the Lanyon theme,
-shares the same MIT license. The rest of the content is licensed under
+shares the same MIT license. The rest of the _textual_ content is licensed under
 [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)][cc-nc-sa] unless explicitly
-noted otherwise.
+noted otherwise. Images used here might have different ownership and license.
 
 [cc-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 [github-blog]: https://github.com/saeed-abdullah/saeed-abdullah.github.com
