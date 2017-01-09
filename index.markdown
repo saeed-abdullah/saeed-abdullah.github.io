@@ -7,13 +7,15 @@ I am a PhD student in [Information Science][info-sci] at Cornell University.
 My advisor is [Tanzeem Choudhury][tanzeem] and I am a member of
 [People-Aware Computing][pac-group] group.
 
-My work is focused on developing novel Ubiquitous Computing systems that
-support our health and overall well-being. In particular, my research is among
-the first to advance a vision for “_Circadian Computing_” — technologies
-that support and adapt to our innate biological rhythms.
+My human-centric research spans the domains of ubiquitous computing, data
+science, and pervasive health technologies. I am particularly interested in
+using mobile sensing and data-driven approaches to support health and well-being.
+In particular, my research is the first to advance a vision for
+“_Circadian Computing_” — technologies that support and adapt to our innate
+biological rhythms.
 
 Almost every biological process follows a roughly 24-hour rhythm known as a
-circadian rhythm.  Living against our body clocks can have grave consequences
+circadian rhythm. Living against our body clocks can have grave consequences
 for physical and mental well-being with an increased risk for cancer, diabetes,
 cardiovascular disease, and mental illness. Moreover, these issues are reaching
 [an epidemic level][roenneberg-nature] — a significant fraction of the global
