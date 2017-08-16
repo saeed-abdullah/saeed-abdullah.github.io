@@ -21,8 +21,7 @@ serious mental illness including [bipolar disorder][moodrhythm-project] and
 [working on](/projects).
 
 
-If you want to discuss about something, feel free to send an email to
-_me@saeedabdullah.com_.
+Feel free to get in touch at _me@saeedabdullah.com_.
 
 [ist-link]: https://ist.psu.edu/
 [clockwise-project]: projects/clockwise.html
