@@ -3,7 +3,7 @@ title: News
 layout: page
 ---
 
-* _August, 2017_: Completed my [B-exam](http://gradschool.cornell.edu/requirements/exams/exams-phd) and dissertation submission!
+* _August, 2017_: Completed my [B Exam](http://gradschool.cornell.edu/requirements/exams/exams-phd) and dissertation submission!
 
 * _May, 2017_: I will be joining the [College of Information Science & Technology](https://ist.psu.edu/) at Penn State as an Assistant Professor this Fall! Exciting time ahead.
 
