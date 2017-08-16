@@ -2,6 +2,16 @@
 title: News
 layout: page
 ---
+
+* _August, 2017_: Completed my [B-exam](http://gradschool.cornell.edu/requirements/exams/exams-phd) and dissertation submission!
+
+* _May, 2017_: I will be joining the [College of Information Science & Technology](https://ist.psu.edu/) at Penn State as an Assistant Professor this Fall! Exciting time ahead.
+
+* _April, 2017_: We will continue to organize the [workshop focusing on mental health](https://ubicomp-mental-health.github.io/workshop-2017.html) in UbiComp 2017.
+
+2016
+----
+
 * _October, 2016_: A large scale study [replicated our phone based sleep algorithm](blog/sleep-algorithm-replication.html).
 
 * _September, 2016_: Looking forward to UbiComp. We have got [three papers](publications.html) accepted this year.
