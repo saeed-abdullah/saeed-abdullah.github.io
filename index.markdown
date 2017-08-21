@@ -21,7 +21,7 @@ serious mental illness including [bipolar disorder][moodrhythm-project] and
 [working on](/projects).
 
 
-Feel free to get in touch at _me@saeedabdullah.com_.
+Feel free to get in touch at _me@saeedabdullah.com_ or [@saeed_siam][twitter].
 
 [ist-link]: https://ist.psu.edu/
 [clockwise-project]: projects/clockwise.html
@@ -30,3 +30,4 @@ Feel free to get in touch at _me@saeedabdullah.com_.
 [alertness]: projects/alertness-performance.html
 [creativity]: projects/creativity.html
 [sleep]: projects/cr-distruption-phone-sensing.html
+[twitter]: https://twitter.com/saeed_siam
