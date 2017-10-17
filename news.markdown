@@ -2,6 +2,9 @@
 title: News
 layout: page
 ---
+* _October, 2017_: My research was featured in [Penn State News](http://news.psu.edu/story/487158/2017/10/10/academics/new-ist-professor-hopes-revolutionize-mental-healthcare-global)!
+
+* _September, 2017_: Heading to [UbiComp](http://ubicomp.org/ubicomp2017/). We are organizing the [mental health workshop](https://ubicomp-mental-health.github.io/workshop-2017.html) this year as well.
 
 * _August, 2017_: Completed my [B Exam](http://gradschool.cornell.edu/requirements/exams/exams-phd) and dissertation submission!
 
