@@ -3,6 +3,12 @@ title: Publications
 layout: page
 ---
 
+2017
+---
+* Saeed Abdullah, Elizabeth L. Murnane, Mark Matthews and Tanzeem Choudhury. <a href="https://link.springer.com/chapter/10.1007/978-3-319-51394-2_3">Circadian Computing: Sensing, Modeling, and Maintaining Biological Rhythms</a>.Mobile Health: Sensors, Analytic Methods, and Applications (Springer). 
+
+* Eun Kyoung Choe, Saeed Abdullah, Mashfiqui Rabbi, Edison Thomaz, Daniel A. Epstein, Matthew Kay, Felicia Cordeiro, Gregory D. Abowd, Tanzeem Choudhury, James Fogarty, Bongshin Lee, Mark Matthews, and Julie A. Kientz. <a href="http://ieeexplore.ieee.org/abstract/document/7807194/"> Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications</a>. IEEE Pervasive.
+
 2016
 ----
 * Saeed Abdullah, Elizabeth Murnane, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, and Tanzeem Choudhury. <a href="https://dl.acm.org/citation.cfm?doid=2971648.2971712">Cognitive rhythms: unobtrusive and continuous sensing of alertness using a mobile phone</a>. UbiComp, 2016.
@@ -16,11 +22,6 @@ layout: page
 * Mark Matthews, Saeed Abdullah, Geri Gay, Tanzeem Choudhury. <a href="#">Detecting and Capitalizing on Physiological Dimensions of Psychiatric Illness</a>. <em>Conference on Physiological Computing Systems</em>. <a href="http://www.phycs.org/">PhyCS, 2016</a>.
 
 * Mark Matthews, Saeed Abdullah, Elizabeth Murnane, Steven Voida, Tanzeem Choudhury, Geri Gay, Ellen Frank. <a href="#">Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder</a>. <em>Special Issue of Assessment on measuring, modeling, and implementing dynamic processes</em>. <a href="https://us.sagepub.com/en-us/nam/assessment/journal201629">Assessment (ASM)</a> <em>(In Press)</em>.
-
-* Eun Kyoung Choe, Saeed Abdullah, Mashfiqui Rabbi, Edison Thomaz, Daniel A. Epstein, Matthew Kay, Felicia Cordeiro, Gregory D. Abowd, Tanzeem Choudhury, James Fogarty, Bongshin Lee, Mark Matthews, and Julie A. Kientz. <a href="#"> Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications</a>. IEEE Pervasive <em>(In Press)</em>.
-
-* Saeed Abdullah, Elizabeth L. Murnane, Mark Matthews and Tanzeem Choudhury. <a href="#">Circadian Computing: Sensing, Modeling, and Maintaining Biological Rhythms</a>. Book Chapter <em>(In Press)</em>.
-
 
 2015
 ----
