@@ -23,6 +23,11 @@ serious mental illness including [bipolar disorder][moodrhythm-project] and
 
 Feel free to get in touch at _me@saeedabdullah.com_ or [@saeed_siam][twitter].
 
+---
+I am recruiting Ph.D. students who are excited about health technologies. If you are interested in working with me, see more details [here](./prospective-students.html).
+
+
+
 [ist-link]: https://ist.psu.edu/
 [clockwise-project]: projects/clockwise.html
 [moodrhythm-project]: projects/mood-rhythm.html
