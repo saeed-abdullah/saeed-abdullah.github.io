@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am an assistant professor in the [College of Information Science and Technology (IST)][ist-link]
+I am an assistant professor in the [College of Information Sciences and Technology (IST)][ist-link]
 at Penn State.
 
 My human-centric research spans the domains of ubiquitous computing, data
