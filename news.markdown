@@ -2,6 +2,24 @@
 title: News
 layout: page
 ---
+
+* _May, 2018_: I gave a talk in [UT Austin iSchool](https://www.ischool.utexas.edu/) colloquium on conversational agents and mental health care.
+
+* _May, 2018_: We have one full paper and two workshop papers accepted in [PervasiveHealth](http://pervasivehealth.org/)
+
+* _April, 2018_: I have been awarded the _Tronzo Medical Informatics endowment_ from IST! The endowment aims to engage faculty and students in issues and technologies related to medical informatics.
+
+* _April, 2018_: Our paper reviewing sensing technologies for serious mental illnesses has been published in [IEEE MultiMedia Magazine](https://ieeexplore.ieee.org/document/8337826/).
+
+* _March, 2018_: Our project has received seed funding from [ICS](https://ics.psu.edu/). Our goal is to predict relapse onset in bipolar disorder using online behavioral data. This project is a collaboration with [Erika Saunders](https://profiles.psu.edu/profiles/display/112378) and [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182).
+
+* _February, 2018_: The [psychology department](http://psych.la.psu.edu/) invited me to give a talk on conversational agent and mental health intervention.
+
+* _January, 2018_: We have been awarded an IST seed grant. The project will develop conversational agents for intervention delivery to patients with PTSD. It is a collaboration with [Linda Collins](https://www.methodology.psu.edu/people/lcollins) and [Steffany Fredman](http://hhd.psu.edu/hdfs/directory/Bio.aspx?id=Fredman).
+
+2017
+----
+
 * _October, 2017_: My research was featured in [Penn State News](http://news.psu.edu/story/487158/2017/10/10/academics/new-ist-professor-hopes-revolutionize-mental-healthcare-global)!
 
 * _September, 2017_: Heading to [UbiComp](http://ubicomp.org/ubicomp2017/). We are organizing the [mental health workshop](https://ubicomp-mental-health.github.io/workshop-2017.html) this year as well.
