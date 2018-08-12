@@ -56,7 +56,7 @@ Pervasive Health, 2018 &bull;
 
 * **Cognitive rhythms: Unobtrusive and continuous sensing of alertness using a mobile phone** <br />
 UbiComp, 2016 &bull;
-\[[project](/projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/2971648.2971712)\] &bull; \[[pdf](/files/pubs/tive-rhythms-ubicomp-2016.pdf)\]
+\[[project](/projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/2971648.2971712)\] &bull; \[[pdf](/files/pubs/cognitive-rhythms-ubicomp-2016.pdf)\]
 
 * **Shining (blue) light on creative ability** <br />
 UbiComp, 2016 &bull;
@@ -68,7 +68,7 @@ UbiComp, 2016 &bull;
 
 * **Mobile manifestations of alertness: Connecting biological rhythms with patterns of smartphone app use** <br />
 MobileHCI, 2016 &bull;
-\[[project](/projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/2935334.293538://doi.org/10.1145/2935334.2935383)\] &bull; \[[pdf](/files/pubs/alertness-mobilehci-2016.pdf)\]
+\[[project](/projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/2935334.293538)\] &bull; \[[pdf](/files/pubs/alertness-mobilehci-2016.pdf)\]
 
 * **Detecting and capitalizing on physiological dimensions of psychiatric illness** <br />
 PhyCS, 2016 &bull;
@@ -92,7 +92,7 @@ CSCW, 2015 &bull;
 
 * **Towards Circadian Computing: "early to bed and early to rise" makes some of us unhealthy and sleep deprived** <br />
 UbiComp, 2014 &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1145/2632048.2632100)\] &bull; \[[pdf](/files/pubs/icircadian-computing-ubicomp-2014.pdf)\]
+\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1145/2632048.2632100)\] &bull; \[[pdf](/files/pubs/circadian-computing-ubicomp-2014.pdf)\]
 
 * **Towards population scale activity recognition: a scalable framework for handling data diversity** <br />
 AAAI, 2012 &bull;
@@ -136,7 +136,7 @@ UbiComp, 2013 (Doctoral Colloquium) &bull;
 
 * **Automatic detection of social rhythms in bipolar disorder via smartphone** <br />
 American College of Neuropsychopharmacology, 2015 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/posters/moodrhythm-acnp-2015.pdf.pdf)\]
+\[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/posters/moodrhythm-acnp-2015.pdf)\]
 
 * **SAINT: a scalable sensing and inference toolkit** <br />
 ACM HotMobile, 2015 &bull;
@@ -148,7 +148,7 @@ Intel Science and Technology Center for Pervasive Computing (ISTC-PC), 2014 &bul
 
 * **Developing a smartphone app to monitor mood, social rhythms, sleep and social activity: technology to support effective management of bipolar disorder** <br />
 American College of Neuropsychopharmacology (ACNP), 2013 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/pubs/moodrhythm-acnp-2013.pdf)\]
+\[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/posters/moodrhythm-acnp-2013.pdf)\]
 
 * **MoodRhythm: Tracking and supporting daily rhythms** <br />
 Interactive demo in UbiComp, 2013 &bull;
