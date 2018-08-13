@@ -3,11 +3,12 @@ title: Publications
 layout: page
 ---
 
-In my research domain, top-tier conferences are highly selective (e.g., < 30% acceptance rate). As such,
-papers in those conferences are considered as top research contributions with
+In Human-Computer Interaction (HCI) research, top-tier conferences are highly
+selective with often less than 30% acceptance rate. Papers in those conferences
+are considered as top research contributions with
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 
-This page lists my most recent publications. My [cv](files/cv.pdf) provides a complete listing
+This page lists my most recent work. My [cv](/files/cv.pdf) provides a complete listing
 with more details (e.g., acceptance rate).
 
 * [Book Chapters](#book-chapter)
