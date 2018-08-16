@@ -51,6 +51,10 @@ IEEE Computer, 2014 &bull;
 
 ### Conference Papers ###
 
+* **AlertnessScanner: What Do Your Pupils Tell About Your Alertness** <br />
+MobileHCI, 2018 &bull;
+\[[project](projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/3229434.3229456)\] &bull; \[[pdf](/files/pubs/alertness-mobilehci-2018.pdf)\]
+
 * **Understanding challenges in prehabilitation for patients with multiple chronic conditions** <br />
 Pervasive Health, 2018 &bull;
 \[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1145/3240925.3240959)\] &bull; \[[pdf](/files/pubs/prehab-pervasive-health-2018.pdf)\]
