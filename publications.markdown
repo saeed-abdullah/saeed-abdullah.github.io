@@ -25,6 +25,10 @@ Mobile Health (Springer), 2017 &bull;
 
 ### Journal Articles ###
 
+* **Personalized stress monitoring: a smartphone-enabled system for quantification of salivary cortisol** <br />
+Personal and Ubiquitous Computing (Springer) &bull;
+\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1007/s00779-018-1164-z)\] &bull; \[[pdf](/files/pubs/cortisol-personal-ubicomp-2018.pdf)\]
+
 * **Sensing technologies for monitoring serious mental illnesses** <br />
 IEEE Multimedia, 2018 &bull;
 \[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1109/MMUL.2018.011921236)\] &bull; \[[pdf](/files/pubs/sensing-technology-ieee-2018.pdf)\]
