@@ -134,6 +134,10 @@ UbiComp, 2015 (Doctoral Colloquium) &bull;
 HCIC: Human Computer Interaction Consortium Workshop, 2014 &bull;
 \[[project](/projects/clockwise.html)\] &bull; \[[pdf](/files/pubs/clockwise-hcic-2014.pdf)\]
 
+* **Biological rhythms and technology** <br />
+CHI, 2014 &bull;
+\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1145/2559206.2559230)\] &bull; \[[pdf](/files/pubs/biological-rhythms-chi-2014.pdf)\]
+
 * **Light, color, affect, and stress** <br />
 4S: Society for Social Studies of Science, 2013
 
