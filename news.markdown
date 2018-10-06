@@ -3,6 +3,12 @@ title: News
 layout: page
 ---
 
+* _September, 2018_: We have been awarded [a seed grant from SSRI](http://www.ssri.psu.edu/news/2798/seed-grants-support-opioid-research-announced). This project aims to use Amazon Alexa devices for real-time mindfulness intervention delivery to patients with chronic pain.
+
+* _September, 2018_: We have a paper in [MobileHCI](https://dl.acm.org/citation.cfm?doid=3229434.3229456). It describes how phone cameras can be leveraged to collect pupil information for inferring alertness levels.
+
+* _June, 2018_: Our paper focusing on [cortisol levels and alertness trends](https://link.springer.com/article/10.1007%2Fs00779-018-1164-z) has been published.
+
 * _May, 2018_: I gave a talk in [UT Austin iSchool](https://www.ischool.utexas.edu/) colloquium on conversational agents and mental health care.
 
 * _May, 2018_: We have one full paper and two workshop papers accepted in [PervasiveHealth](http://pervasivehealth.org/)
