@@ -17,7 +17,7 @@ and data-driven systems across a diverse set of domains: [sleep][sleep],
 [cognitive performance][alertness], [chronic pain management][pain],
 and serious mental illnesses including [bipolar disorder][bd-project]
 and [PTSD][ptsd]. Take a look at the projects I have been [working
-on](/projects).
+on][projects].
 
 
 Feel free to get in touch at _me@saeedabdullah.com_ or
@@ -39,3 +39,4 @@ more details [here][prospective].
 [sleep]: https://whilab.org/projects/cr-distruption-phone-sensing.html
 [twitter]: https://twitter.com/saeed_siam
 [prospective]: https://whilab.org/prospective-students.html
+[projects]: https://whilab.org/projects/
