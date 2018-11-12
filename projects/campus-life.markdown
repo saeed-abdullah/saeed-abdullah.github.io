@@ -17,7 +17,7 @@ Mental health issues are increasingly prevalent among younger generation. For
 health issues that can negatively impact academic performance, social
 relationship and overall well-being. Based on data from 19,861 students over
 40 schools, the 2015 National College Health Assessment
-([ACHA-NCHA II](acha-ncha])) found that 35.3% students “felt so depressed that
+([ACHA-NCHA II][acha-ncha]) found that 35.3% students “felt so depressed that
 it was difficult to function” and 9.6% students have seriously considered
 suicide at least once in last 12 months.
 
