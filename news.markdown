@@ -2,11 +2,11 @@
 title: News
 layout: page
 ---
-* _March, 2019_ Our project has been [featured in Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
+* _March, 2019_: Our project has been [featured in Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
 
-* _March, 2019_ We have been awarded a seed grant from IST to monitor, predict, and analyze alcohol and marijuana use in young adults. This is a collaboration with [Ashley Linden-Carmichael](https://sites.psu.edu/alindencarmichael/) and [Stephanie Lanza](http://prevention.psu.edu/people/lanza-stephanie).
+* _March, 2019_: We have been awarded a seed grant from IST to monitor, predict, and analyze alcohol and marijuana use in young adults. This is a collaboration with [Ashley Linden-Carmichael](https://sites.psu.edu/alindencarmichael/) and [Stephanie Lanza](http://prevention.psu.edu/people/lanza-stephanie).
 
-* _February, 2019_ We organized the 2nd Working Group Meeting for the [Life Sensing Consortium (LSC)](https://lifesensingconsortium.org/)
+* _February, 2019_: We organized the 2nd Working Group Meeting for the [Life Sensing Consortium (LSC)](https://lifesensingconsortium.org/)
 
 2018
 ----
