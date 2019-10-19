@@ -3,6 +3,10 @@ title: News
 layout: page
 ---
 
+* _October, 2019_: We have received a grant from the [American Institute for Cancer Research](https://www.aicr.org/) to develop a supportive care platform for metastatic breast cancer patients using smart speakers. This is a collaboration with [Kathryn Schmitz](https://cancer.psu.edu/researchers/individual/-/researcher/5B6500F63D5438DBE0540010E056499A/kathryn-schmitz-phd-mph-facsm).
+
+* _July, 2019_: I have been awarded an [NSF CRII grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850287) to develop conversational agents for patients with PTSD.
+
 * _March, 2019_: I have received the 2019 **Junior Faculty Excellence Award in Research** from [IST](https://news.psu.edu/story/567207/2019/04/03/faculty-and-staff-recognized-annual-ist-awards-reception)!
 
 * _March, 2019_: I am serving as a publicity chair in [UbiComp 2019](http://ubicomp.org/ubicomp2019/). Please consider attending.
