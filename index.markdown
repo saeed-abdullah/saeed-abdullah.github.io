@@ -24,9 +24,11 @@ Feel free to get in touch at _me@saeedabdullah.com_ or
 [@saeed_siam][twitter].
 
 ---
-I am recruiting Ph.D. students who are excited about health
-technologies. If you are interested in working with me, see
-more details [here][prospective].
+
+**Funded PhD positions available**:
+I am recruiting PhD students who have strong computational skills and
+are excited about health technologies. If you are interested in working
+with me, see more details [here][prospective].
 
 
 [whi-lab]: https://whilab.org/
