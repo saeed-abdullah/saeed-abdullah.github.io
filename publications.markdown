@@ -147,6 +147,16 @@ UbiComp, 2013 (Doctoral Colloquium) &bull;
 
 ### Posters and Demos ###
 
+* **Understanding the Needs and Challenges of Using Conversational Agents for Deaf Older Adults** <br />
+CSCW, 2019 &bull; \[[project](#)\] &bull; \[[pdf](/files/pubs/dhh-smartspeaker-cscw-2019.pdf)\] &bull; \[[doi](https://doi.org/10.1145/3311957.3359487)\]
+
+* **Investigating Users' Perceptions of Light Behaviors in Smart-Speakers** <br />
+CSCW, 2019
+\[[project](#)\] &bull; \[[pdf](/files/pubs/light-smartspeaker-cscw-2019.pdf)\] &bull; \[[doi](https://doi.org/10.1145/3311957.3359479)\]
+
+* **Can Alexa be your Therapist?: How Back-Channeling Transforms Smart-Speakers to be Active Listeners** <br />
+CSCW, 2019 &bull; \[[project](#)\] &bull; \[[pdf](/files/pubs/backchanneling-alexa-cscw-2019.pdf)\] &bull; \[[doi](https://doi.org/10.1145/3311957.3359502)\]
+
 * **Automatic detection of social rhythms in bipolar disorder via smartphone** <br />
 American College of Neuropsychopharmacology, 2015 &bull;
 \[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/posters/moodrhythm-acnp-2015.pdf)\]
