@@ -65,7 +65,4 @@ behavior and contexts.
 
 [ubicomp-2014]: http://pac.cs.cornell.edu/pubs/clockwise-ubicomp-2014.pdf
 [andrea-arxiv]: https://arxiv.org/pdf/1608.06108v1.pdf
-[ubicomp-presentation]: https://dl.dropboxusercontent.com/u/6286713/permlinks/talk-ubicomp-2014.pdf
-
-
-
+[ubicomp-presentation]: /files/slides/2014/talk-ubicomp-2014.pdf
