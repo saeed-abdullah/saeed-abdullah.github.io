@@ -1,6 +1,18 @@
 # Ignore generated sites
 _site/*
 blog/_site/*
+.jekyll-metadata
+
+# Ruby
+.bundle/
+.byebug_history
+.ruby-gemset
+.ruby-version
+*.gem
+Gemfile.lock
+
+# Folders
+/vendor
 
 #Ignore .DS_Store
 .DS_Store
