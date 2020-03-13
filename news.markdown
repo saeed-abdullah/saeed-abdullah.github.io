@@ -3,12 +3,14 @@ title: News
 layout: page
 ---
 
+* _March, 2020_: Our [paper](/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
+
 * _January, 2020_: I attended the Smart and Connected Health (SCH) PI meeting at [NSF](https://www.nsf.gov/).
 
 2019
 ----
 
-* _December, 2019_: We have two papers accepted in [CHI 2020](https://chi2020.acm.org/) focusing on smart speakers!
+* _December, 2019_: We have [two](/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) [papers](/files/pubs/public-speaking-smartspeaker-CHI-2020.pdf) accepted at [CHI 2020](https://chi2020.acm.org/) focusing on smart speakers!
 
 * _October, 2019_: We have received a grant from the [American Institute for Cancer Research](https://www.aicr.org/) to develop a supportive care platform using smart speakers for patients with metastatic breast cancer. This is a collaboration with [Kathryn Schmitz](https://cancer.psu.edu/researchers/individual/-/researcher/5B6500F63D5438DBE0540010E056499A/kathryn-schmitz-phd-mph-facsm).
 
