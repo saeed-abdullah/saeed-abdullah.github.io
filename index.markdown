@@ -23,14 +23,6 @@ on][projects].
 Feel free to get in touch at _me@saeedabdullah.com_ or
 [@saeed_siam][twitter].
 
----
-
-**Funded PhD positions available**:
-I am recruiting PhD students who have strong computational skills and
-are excited about health technologies. If you are interested in working
-with me, see more details [here][prospective].
-
-
 [whi-lab]: https://whilab.org/
 [ist-link]: https://ist.psu.edu/
 [clockwise-project]: https://whilab.org/projects/clockwise.html
