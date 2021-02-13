@@ -3,7 +3,18 @@ title: News
 layout: page
 ---
 
-* _March, 2020_: Our [paper](/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an Honourable Mention Award at CHI 2020!
+* _January, 2021_: Our recent [work on deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf) has been featured in [Penn State News](https://news.psu.edu/story/643330/2021/01/07/research/study-suggests-smart-assistant-design-improvements-deaf-users), [ScienceBlog](https://scienceblog.com/520393/study-suggests-smart-assistant-design-improvements-for-deaf-users/), and [Hearing Review](https://www.hearingreview.com/inside-hearing/research/smart-assistant).
+
+2020
+----
+
+* _December, 2020_: We published a paper focusing on the [challenges of using smart assistants for deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf) in the [ACM IMWUT journal](imwut.acm.org/).
+
+* _September, 2020_: We co-organized the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io/workshop-2020.html) at UbiComp.
+
+* _May, 2020_: We published a workshop paper at [Pervasive Health](https://pervasivehealth.eai-conferences.org/2020/) focusing on [relapse onset prediction in bipolar disorder from online behavior](/files/pubs/relapse-onset-bd-pervasive-health-2020.pdf).
+
+* _March, 2020_: Our [paper](/files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf) has received an **Honorable Mention Award at CHI 2020**!
 
 * _January, 2020_: I attended the Smart and Connected Health (SCH) PI meeting at [NSF](https://www.nsf.gov/).
 
