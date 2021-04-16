@@ -646,6 +646,7 @@ blockquote footer {
     text-align: right;
 }
 
+section > h1, section > h2, section > h3,
 section > p, section > footer, section > table, section > hr {
     width: 60%;
 }
@@ -851,6 +852,7 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @media (max-width: 760px) {
+    section > h1, section > h2, section > h3,
     hr, section > p, section > footer, section > table {
         width: 100%;
     }
