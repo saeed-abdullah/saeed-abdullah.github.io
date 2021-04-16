@@ -3,16 +3,7 @@ title: Selfie of Societal Happiness
 layout: page
 ---
 
-<div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/social-media-image.jpg"/>
-        </div>
-    </div>
-</div>
-
-
+![{{ page.title }}](/files/images/social-media-image.jpg)
 
 The increasing adoption of social media has provided a unique opportunity to
 quantitatively characterize human behavior at a broader scale. Status updates

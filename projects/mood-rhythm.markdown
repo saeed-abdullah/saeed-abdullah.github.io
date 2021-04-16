@@ -2,17 +2,7 @@
 title: MoodRhythm
 layout: page
 ---
-
-
-<div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/mood-rhythm.jpg"/>
-        </div>
-    </div>
-</div>
-
+![{{ page.title }}](/files/images/mood-rhythm.jpg)
 
 
 Rhythms guide our lives. Our biological clocks tell us when we need to sleep,

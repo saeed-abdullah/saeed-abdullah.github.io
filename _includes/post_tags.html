@@ -1,0 +1,35 @@
+<footer class="de-emphasize">
+    {% if page.tags.size > 0 %}
+        {% assign second_to_last_idx = page.tags.size | minus: 2 %}
+        {% assign tag_period = "." %}
+        {% assign tag_comma = ", " %}
+        {% assign tag_and = " and " %}
+        {% assign tag_comma_and = ", and " %}
+
+        {% comment %} 
+        <!-- remove whitespace. https://shopify.github.io/liquid/basics/whitespace/ --> {% endcomment %}
+
+        <p>Tagged with
+        {% for t in page.tags %}
+            <a href="/posts/tags/{{ t.url }}" class="tags{% if tag and tag.name == t.name %} selected{% endif %}">{{- t -}}</a>
+
+                {%- comment -%} <!-- ends with a period --> {% endcomment %}
+                {%- if forloop.last -%}
+                    {{- tag_period -}}
+                {%- elsif forloop.index0 == second_to_last_idx -%}
+                    {%- comment -%}
+                        <!-- If there are more than 2 tags, the last
+                        two should be seperated by ", and " (i.e., tag1, tag2, and tag3).
+                        Otherwise, it should be just " and " (i.e., tag1 and tag2). -->
+                    {%- endcomment -%}
+                    {%- if forloop.length > 2 -%}
+                        {{- tag_comma_and -}}
+                    {%- else -%}
+                        {{- tag_and -}}
+                    {%- endif -%}
+                {%- else -%}
+                    {{- tag_comma -}}
+                {%- endif -%}
+        {%- endfor -%}
+    {%- endif -%}
+</footer>

@@ -3,15 +3,7 @@ title: "EUREKA: Preventing Relapse in Schizophrenia"
 layout: page
 ---
 
-<div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/eureka.jpg"/>
-        </div>
-    </div>
-</div>
-
+![{{ page.title }}](/files/images/eureka.jpg)
 
 Schizophrenia is a severe psychiatric disorder characterized by psychotic
 symptoms such as hallucinations and delusions, cognitive deficits, and

@@ -3,13 +3,7 @@ title: "CampusLife: Mental Health and Well-being on College Campuses"
 layout: page
 ---
 
-<div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/campus-life.jpg"/>
-        </div>
-    </div>
-</div>
+![CampusLife](/files/images/campus-life.jpg)
 
 Mental health issues are increasingly prevalent among younger generation. For
 75% of individuals with mental health problems, the age of onset is prior to

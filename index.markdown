@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: page
 title: Home
+title_no_show: true
 ---
+
+**Hi, I am Saeed Abdullah.**
 
 I am an assistant professor in the College of Information Sciences
 and Technology ([IST][ist-link]) at Penn State. I also lead the
@@ -22,6 +25,10 @@ on][projects].
 
 Feel free to get in touch at _me@saeedabdullah.com_ or
 [@saeed_siam][twitter].
+
+{% include recent_posts.html %}
+
+
 
 [whi-lab]: https://whilab.org/
 [ist-link]: https://ist.psu.edu/

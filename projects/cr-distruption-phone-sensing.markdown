@@ -3,13 +3,7 @@ title: Passive Sensing of Sleep Behavior & Circadian Disruptions
 layout: page
 ---
 
-<div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/passive-sensing.jpg"/>
-        </div>
-    </div>
-</div>
+![{{ page.title }}](/files/images/passive-sensing.jpg)
 
 Persistent sleep and circadian disruptions can have severe consequences for
 our physical and cognitive performance, mental health and, overall well-being.

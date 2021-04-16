@@ -2,7 +2,15 @@
 layout: default
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</div>
+<article>
+
+    <section>
+
+    {% unless page.title_no_show %}
+      <h1>{{ page.title }}</h1>
+    {% endunless %}
+
+        {{ content }}
+    </section>
+
+</article>

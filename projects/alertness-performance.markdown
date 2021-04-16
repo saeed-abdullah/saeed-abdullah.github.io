@@ -3,13 +3,7 @@ title: Rhythms of Cognitive Performance
 layout: page
 ---
 
-<div class="row">
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/cognitive-rhythm.jpg"/>
-        </div>
-    </div>
-</div>
+![Cognitive Rhythm](/files/images/cognitive-rhythm.jpg)
 
 
 Our cognitive abilities wax and wane over the course of the day. In particular,
@@ -47,7 +41,7 @@ work performance.
 Kientz, Geri Gay, Tanzeem Choudhury.
 [Cognitive Rhythms: Unobtrusive and Continuous Sensing of Alertness Using a Mobile Phone](http://dx.doi.org/10.1145/2971648.2971712). UbiComp, 2016.
 
-* <i class="fa fa-trophy" aria-hidden="true"></i> Elizabeth Murnane, Saeed Abdullah, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, Tanzeem Choudhury, Dan Cosley. <a href="https://dl.acm.org/citation.cfm?id=2935383">Mobile Manifestations of Circadian Rhythms of Attention</a>. MobileHCI, 2016. **Best paper award (top 2 papers)**.
+* &#9733; Elizabeth Murnane, Saeed Abdullah, Mark Matthews, Matthew Kay, Julie Kientz, Geri Gay, Tanzeem Choudhury, Dan Cosley. <a href="https://dl.acm.org/citation.cfm?id=2935383">Mobile Manifestations of Circadian Rhythms of Attention</a>. MobileHCI, 2016. **Best paper award (top 2 papers)**.
 
 
 ## Supplementary Materials ##

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Projects
 ---
 
 For my current projects, please go to our [lab page][lab-projects].

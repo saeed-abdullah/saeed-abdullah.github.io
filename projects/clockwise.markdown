@@ -2,14 +2,7 @@
 title: ClockWise
 layout: page
 ---
-<div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/clockwise-1.jpg"/>
-        </div>
-    </div>
-</div>
+![clockwise](/files/images/clockwise-1.jpg)
 
 
 Human physiology and behavior are deeply rooted in the daily 24 hour

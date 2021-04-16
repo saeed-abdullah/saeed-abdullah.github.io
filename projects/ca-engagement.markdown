@@ -3,15 +3,7 @@ title: Conversational Agents for Sustaining Engagement to eHealth
 layout: page
 ---
 
-
-<div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/place-holder.jpg"/>
-        </div>
-    </div>
-</div>
+![CA Engagement](/files/images/place-holder.jpg)
 
 
 In recent years, there has been a significant rise in digital health technologies

@@ -3,14 +3,7 @@ title: Population Scale Activity Recognition
 layout: page
 ---
 
-<div class="row">
-
-    <div class="col-md-12">
-        <div class="col-xs-offset-1 col-md-10">
-            <img src="/files/images/csn.jpg"/>
-        </div>
-    </div>
-</div>
+![{{ page.title }}](/files/images/csn.jpg)
 
 
 

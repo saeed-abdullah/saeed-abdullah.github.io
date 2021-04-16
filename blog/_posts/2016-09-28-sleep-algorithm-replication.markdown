@@ -12,7 +12,6 @@ data from 126 participants, they found that our algorithm performs similarly
 to their proposed Bayesian model with remarkable accuracy and precision for
 detecting sleep events (mean accuracy: 0.89 and mean F1-score: 0.83).
 
-
 While a number of recent studies have used a wide array of sensors on phones
 (e.g., audio, accelereometer) to assess sleep, our algorithm _only_ uses
 screen on and off information. The intuition behind our algorithm is that
@@ -24,21 +23,10 @@ term learned over the initial training period. In our paper, we have provided
 [detailed pseudo-code][ubicomp-2014]. You can also see it explained in the
 slides I presented in UbiComp 2014 ([see slide 33 - 37][ubicomp-presentation]).
 
-<div class="row">
-    <div class="col-lg-12">
-    <img src="/files/images/blog/ubicomp-2014-sleep.png"
-     alt="Average sleep onset and duration across participants from phone and
-     journal data. The phone non-usage coincides with sleep events.">
-    </div>
 
-    <div class="col-lg-12">
-    <p><i>Average sleep onset and duration across participants from phone and
-     journal data. The phone non-usage coincides with sleep events.</i></p>
-    </div>
-
-</div>
-
-
+![Average sleep onset and duration across participants from phone and
+journal data. The phone non-usage coincides with sleep events.](/files/images/blog/ubicomp-2014-sleep.png)
+_Average sleep onset and duration across participants from phone and journal data. The phone non-usage coincides with sleep events._
 
 In our study, we evaluated the algorithm using data from 9 participants over
 97 days and found that it can accurately assess sleep onset and duration.
