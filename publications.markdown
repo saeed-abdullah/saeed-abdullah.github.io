@@ -64,6 +64,30 @@ _IEEE Computer_, 2014\
 \[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf]({% link /files/pubs/tracking-ieee-2014.pdf %})\]
 
 ### Conference Papers ###
+* **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
+_CHI Conference on Human Factors in Computing Systems_, 2020\
+**Honorable Mention (top 5% of submissions)**\
+\[[doi](https://doi.org/10.1145/3313831.3376551)\] &bull; \[[pdf]({% link /files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf %})\]
+
+* **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
+_CHI Conference on Human Factors in Computing Systems_, 2020
+\[[doi](https://doi.org/10.1145/3313831.3376561)\] &bull; \[[pdf]({% link /files/pubs/public-speaking-smartspeaker-CHI-2020.pdf %})\]
+
+* **AlertnessScanner: What Do Your Pupils Tell About Your Alertness**\
+_Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2018\
+\[[doi](https://doi.org/10.1145/3229434.3229456)\] &bull; \[[pdf]({% link /files/pubs/alertness-mobilehci-2018.pdf %})\]
+
+* **Understanding Challenges in Prehabilitation for Patients with Multiple Chronic Conditions**\
+_Pervasive Health_, 2018\
+\[[doi](https://doi.org/10.1145/3240925.3240959)\] &bull; \[[pdf]({% link /files/pubs/prehab-pervasive-health-2018.pdf %})\]
+
+* **Cognitive Rhythms: Unobtrusive and Continuous Sensing of Alertness Using a Mobile Phone**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
+\[[doi](https://doi.org/10.1145/2971648.2971712)\] &bull; \[[pdf]({% link /files/pubs/cognitive-rhythms-ubicomp-2016.pdf %})\]
+
+* **Shining (Blue) Light on Creative Ability**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
+\[[doi](https://doi.org/10.1145/2971648.2971751)\] &bull; \[[pdf]({% link /files/pubs/creativity-ubicomp-2016.pdf %})\]
 
 * **CrossCheck: Toward passive sensing and detection of mental health changes in people with schizophrenia**\
 _Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
