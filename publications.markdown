@@ -3,11 +3,6 @@ title: Publications
 layout: page
 ---
 
-In Human-Computer Interaction (HCI) research, top-tier conferences are highly
-selective with often less than 30% acceptance rate. Papers in those conferences
-are considered as top research contributions with
-[impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
-
 This page lists my most recent work. My [CV]({% link /files/cv.pdf %}) provides a complete listing
 with more details.
 
@@ -63,6 +58,12 @@ _Psychiatric Services_, 2015\
 _IEEE Computer_, 2014\
 \[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf]({% link /files/pubs/tracking-ieee-2014.pdf %})\]
 
+<label for="hci-conference-description" class="margin-toggle">&#8853;</label><input type="checkbox" id="hci-conference-description" class="margin-toggle"><span class="marginnote">
+In Human-Computer Interaction (HCI) research, top-tier conferences are highly
+selective with often less than 30% acceptance rate (take a look at my [CV]({% link /files/cv.pdf %})
+for acceptance rates). Papers in those conferences are considered as top research contributions with
+[impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
+</span>
 ## Conference Papers ##
 
 * **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
