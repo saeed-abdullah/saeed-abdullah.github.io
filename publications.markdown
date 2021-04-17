@@ -64,14 +64,16 @@ _IEEE Computer_, 2014\
 \[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf]({% link /files/pubs/tracking-ieee-2014.pdf %})\]
 
 ### Conference Papers ###
-* **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
-_CHI Conference on Human Factors in Computing Systems_, 2020\
-**Honorable Mention (top 5% of submissions)**\
-\[[doi](https://doi.org/10.1145/3313831.3376551)\] &bull; \[[pdf]({% link /files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf %})\]
 
 * **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
 _CHI Conference on Human Factors in Computing Systems_, 2020
 \[[doi](https://doi.org/10.1145/3313831.3376561)\] &bull; \[[pdf]({% link /files/pubs/public-speaking-smartspeaker-CHI-2020.pdf %})\]
+
+<label for="2020-chi-honorable-mention" class="margin-toggle">&#8853;</label><input type="checkbox" id="2020-chi-honorable-mention" class="margin-toggle"><span class="marginnote">Honorable Mention (top 5% of submissions)</span>
+* **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
+_CHI Conference on Human Factors in Computing Systems_, 2020\
+\[[doi](https://doi.org/10.1145/3313831.3376551)\] &bull; \[[pdf]({% link /files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf %})\]
+
 
 * **AlertnessScanner: What Do Your Pupils Tell About Your Alertness**\
 _Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2018\
@@ -93,9 +95,10 @@ _Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
 _Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
 \[[doi](https://doi.org/10.1145/2971648.2971740)\] &bull; \[[pdf]({% link /files/pubs/crosscheck-ubicomp-2016.pdf %})\]
 
-* **&#9733; Mobile manifestations of alertness: Connecting biological rhythms with patterns of smartphone app use**\
+* **&#9733;**
+<label for="2016-mobilehci-best-paper" class="margin-toggle">&#8853;</label><input type="checkbox" id="2016-mobilehci-best-paper" class="margin-toggle"><span class="marginnote">Best paper award (top 2 papers)</span>
+**Mobile manifestations of alertness: Connecting biological rhythms with patterns of smartphone app use**\
 _Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2016\
-**Best paper award (top 2 papers)**\
 \[[doi](https://doi.org/10.1145/2935334.293538)\] &bull; \[[pdf]({% link /files/pubs/alertness-mobilehci-2016.pdf %})\]
 
 * **Detecting and Capitalizing on Physiological Dimensions of Psychiatric Illness**\
