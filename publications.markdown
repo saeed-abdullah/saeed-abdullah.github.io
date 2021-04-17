@@ -8,8 +8,8 @@ selective with often less than 30% acceptance rate. Papers in those conferences
 are considered as top research contributions with
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 
-This page lists my most recent work. My [cv](/files/cv.pdf) provides a complete listing
-with more details (e.g., acceptance rate).
+This page lists my most recent work. My [CV]({% link /files/cv.pdf %}) provides a complete listing
+with more details.
 
 * [Book Chapters](#book-chapters)
 * [Journal Articles](#journal-articles)
