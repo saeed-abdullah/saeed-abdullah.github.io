@@ -11,172 +11,213 @@ are considered as top research contributions with
 This page lists my most recent work. My [cv](/files/cv.pdf) provides a complete listing
 with more details (e.g., acceptance rate).
 
-* [Book Chapters](#book-chapter)
+* [Book Chapters](#book-chapters)
 * [Journal Articles](#journal-articles)
 * [Conference Papers](#conference-papers)
-* [Workshop Papers and Abstracts](#workshop-papers-and-abstracts)
-* [Posters and Demos](#posters-and-demos)
+* [Workshop Papers & Abstracts](#workshop-papers--abstracts)
+* [Posters & Demos](#posters--demos)
 
-### Book chapter ###
+### Book Chapters ###
+* **Ubiquitous computing for person-environment research: Opportunities, considerations, and future directions**\
+_Measuring and Modeling Persons and Situations_, 2021\
+In Press.
 
-* **Circadian Computing: sensing, modeling, and maintaining Biological Rhythms** <br />
-Mobile Health (Springer), 2017 &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf](/files/pubs/circadian-computing-book-2017.pdf)\]
+* **Circadian Computing: sensing, modeling, and maintaining Biological Rhythms**\
+_Mobile Health (Springer)_, 2017\
+\[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
 ### Journal Articles ###
+* **A Query Conundrum: The Mental Challenges of Using a Cognitive Assistant**\
+_SN Computer Science_, 2021\
+\[[doi](https://doi.org/10.1007/s42979-021-00621-9)\] &bull; \[[pdf]({% link /files/pubs/2021-query-sn-computer.pdf %})\]
 
-* **Personalized stress monitoring: a smartphone-enabled system for quantification of salivary cortisol** <br />
-Personal and Ubiquitous Computing (Springer) &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1007/s00779-018-1164-z)\] &bull; \[[pdf](/files/pubs/cortisol-personal-ubicomp-2018.pdf)\]
+* **It Didn't Sound Good with My Cochlear Implants: Understanding the Challenges of Using Smart Assistants for Deaf and Hard of Hearing Users**\
+_Proceedings of the ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)_, 2020\
+\[[doi](https://doi.org/10.1145/3432194)\] &bull; \[[pdf]({% link /files/pubs/smart-assistant-dhh-imwut-2020.pdf %})\]
 
-* **Sensing technologies for monitoring serious mental illnesses** <br />
-IEEE Multimedia, 2018 &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1109/MMUL.2018.011921236)\] &bull; \[[pdf](/files/pubs/sensing-technology-ieee-2018.pdf)\]
+* **Sensing technologies for monitoring serious mental illnesses**\
+_IEEE Multimedia (Special Issue on New Signals in Multimedia)_, 2018\
+\[[doi](https://doi.org/10.1109/MMUL.2018.011921236)\] &bull; \[[pdf]({% link /files/pubs/sensing-technology-ieee-2018.pdf %})\]
 
-* **Semi-automated tracking: a balanced approach for self-monitoring applications** <br />
-IEEE Pervasive Computing, 2017 &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1109/MPRV.2017.18)\] &bull; \[[pdf](/files/pubs/semi-automated-tracking-pervasive-2017.pdf)\]
+* **Personalized stress monitoring: a smartphone-enabled system for quantification of salivary cortisol**\
+_Personal and Ubiquitous Computing_, 2018\
+\[[doi](https://doi.org/10.1007/s00779-018-1164-z)\] &bull; \[[pdf]({% link /files/pubs/cortisol-personal-ubicomp-2018.pdf %})\]
 
-* **Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder** <br />
-Assessment, 2016 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[doi](https://doi.org/10.1177/1073191116656794)\] &bull; \[[pdf](/files/pubs/moodrhythm-assessment-2016.pdf)\]
+* **Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications**\
+_IEEE Pervasive Computing_, 2017\
+\[[doi](https://doi.org/10.1109/MPRV.2017.18)\] &bull; \[[pdf]({% link /files/pubs/semi-automated-tracking-pervasive-2017.pdf %})\]
 
-* **Automatic detection of social rhythms in bipolar disorder** <br />
-JAMIA, 2015 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[doi](https://doi.org/10.1093/jamia/ocv200)\] &bull; \[[pdf](/files/pubs/moodrhythm-jamia-2015.pdf)\]
+* **Development and Evaluation of a Smartphone-Based Measure of Social Rhythms for Bipolar Disorder**\
+_Assessment (ASM)_, 2016\
+\[[doi](https://doi.org/10.1177/1073191116656794)\] &bull; \[[pdf]({% link /files/pubs/moodrhythm-assessment-2016.pdf %})\]
 
-* **Mobile behavioral sensing for outpatients and inpatients with schizophrenia** <br />
-Psychiatric Services, 2015 &bull;
-\[[project](/projects/eureka.html)\] &bull; \[[doi](https://doi.org/10.1176/appi.ps.201500130)\] &bull; \[[pdf](/files/pubs/behavior-eureka-ps-2015.pdf)\]
+* **Automatic detection of social rhythms in bipolar disorder**\
+_Journal of the American Medical Informatics Association (JAMIA)_, 2015\
+\[[doi](https://doi.org/10.1093/jamia/ocv200)\] &bull; \[[pdf]({% link /files/pubs/moodrhythm-jamia-2015.pdf %})\]
 
-* **Tracking mental well-being: balancing rich sensing and patient needs** <br />
-IEEE Computer, 2014 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf](/files/pubs/tracking-ieee-2014.pdf)\]
+* **Mobile Behavioral Sensing for Outpatients and Inpatients With Schizophrenia**\
+_Psychiatric Services_, 2015\
+\[[doi](https://doi.org/10.1176/appi.ps.201500130)\] &bull; \[[pdf]({% link /files/pubs/behavior-eureka-ps-2015.pdf %})\]
+
+* **Tracking Mental Well-Being: Balancing Rich Sensing and Patient Needs**\
+_IEEE Computer_, 2014\
+\[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf]({% link /files/pubs/tracking-ieee-2014.pdf %})\]
 
 ### Conference Papers ###
+* **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
+_CHI Conference on Human Factors in Computing Systems_, 2020\
+**Honorable Mention (top 5% of submissions)**\
+\[[doi](https://doi.org/10.1145/3313831.3376551)\] &bull; \[[pdf]({% link /files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf %})\]
 
-* **AlertnessScanner: What Do Your Pupils Tell About Your Alertness** <br />
-MobileHCI, 2018 &bull;
-\[[project](projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/3229434.3229456)\] &bull; \[[pdf](/files/pubs/alertness-mobilehci-2018.pdf)\]
+* **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
+_CHI Conference on Human Factors in Computing Systems_, 2020
+\[[doi](https://doi.org/10.1145/3313831.3376561)\] &bull; \[[pdf]({% link /files/pubs/public-speaking-smartspeaker-CHI-2020.pdf %})\]
 
-* **Understanding challenges in prehabilitation for patients with multiple chronic conditions** <br />
-Pervasive Health, 2018 &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1145/3240925.3240959)\] &bull; \[[pdf](/files/pubs/prehab-pervasive-health-2018.pdf)\]
+* **AlertnessScanner: What Do Your Pupils Tell About Your Alertness**\
+_Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2018\
+\[[doi](https://doi.org/10.1145/3229434.3229456)\] &bull; \[[pdf]({% link /files/pubs/alertness-mobilehci-2018.pdf %})\]
 
-* **Cognitive rhythms: Unobtrusive and continuous sensing of alertness using a mobile phone** <br />
-UbiComp, 2016 &bull;
-\[[project](/projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/2971648.2971712)\] &bull; \[[pdf](/files/pubs/cognitive-rhythms-ubicomp-2016.pdf)\]
+* **Understanding Challenges in Prehabilitation for Patients with Multiple Chronic Conditions**\
+_Pervasive Health_, 2018\
+\[[doi](https://doi.org/10.1145/3240925.3240959)\] &bull; \[[pdf]({% link /files/pubs/prehab-pervasive-health-2018.pdf %})\]
 
-* **Shining (blue) light on creative ability** <br />
-UbiComp, 2016 &bull;
-\[[project](/projects/creativity.html)\] &bull; \[[doi](https://doi.org/10.1145/2971648.2971751)\] &bull; \[[pdf](/files/pubs/creativity-ubicomp-2016.pdf)\]
+* **Cognitive Rhythms: Unobtrusive and Continuous Sensing of Alertness Using a Mobile Phone**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
+\[[doi](https://doi.org/10.1145/2971648.2971712)\] &bull; \[[pdf]({% link /files/pubs/cognitive-rhythms-ubicomp-2016.pdf %})\]
 
-* **CrossCheck: Toward passive sensing and detection of mental health changes in people with schizophrenia** <br />
-UbiComp, 2016 &bull;
-\[[project](/projects/eureka.html)\] &bull; \[[doi](https://doi.org/10.1145/2971648.2971740)\] &bull; \[[pdf](/files/pubs/crosscheck-ubicomp-2016.pdf)\]
+* **Shining (Blue) Light on Creative Ability**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
+\[[doi](https://doi.org/10.1145/2971648.2971751)\] &bull; \[[pdf]({% link /files/pubs/creativity-ubicomp-2016.pdf %})\]
 
-* **Mobile manifestations of alertness: Connecting biological rhythms with patterns of smartphone app use** <br />
-MobileHCI, 2016 &bull;
-\[[project](/projects/alertness-performance.html)\] &bull; \[[doi](https://doi.org/10.1145/2935334.293538)\] &bull; \[[pdf](/files/pubs/alertness-mobilehci-2016.pdf)\]
+* **CrossCheck: Toward passive sensing and detection of mental health changes in people with schizophrenia**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
+\[[doi](https://doi.org/10.1145/2971648.2971740)\] &bull; \[[pdf]({% link /files/pubs/crosscheck-ubicomp-2016.pdf %})\]
 
-* **Detecting and capitalizing on physiological dimensions of psychiatric illness** <br />
-PhyCS, 2016 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[doi](https://doi.org/10.5220/0005952600980104)\] &bull; \[[pdf](/files/pubs/moodrhythm-phycs-2016.pdf)\]
+* **&#9733; Mobile manifestations of alertness: Connecting biological rhythms with patterns of smartphone app use**\
+_Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2016\
+**Best paper award (top 2 papers)**\
+\[[doi](https://doi.org/10.1145/2935334.293538)\] &bull; \[[pdf]({% link /files/pubs/alertness-mobilehci-2016.pdf %})\]
 
-* **Social (media) jet lag: How usage of social technology can modulate and reflect circadian rhythms** <br />
-UbiComp, 2015 &bull;
-\[[project](/projects/cr-distruption-phone-sensing.html)\] &bull; \[[doi](https://doi.org/10.1145/2750858.2807522)\] &bull; \[[pdf](/files/pubs/social-media-jet-lag-ubicomp-2015.pdf)\]
+* **Detecting and Capitalizing on Physiological Dimensions of Psychiatric Illness**\
+_Conference on Physiological Computing Systems (PhyCS)_, 2016\
+\[[doi](https://doi.org/10.5220/0005952600980104)\] &bull; \[[pdf]({% link /files/pubs/moodrhythm-phycs-2016.pdf %})\]
 
-* **In-situ design for mental illness: considering the pathology of bipolar disorder in mHealth design** <br />
-MobileHCI, 2015 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[doi](https://doi.org/10.1145/2785830.2785866)\] &bull; \[[pdf](/files/pubs/moodrhythm-mobilehci-2015.pdf)\]
+* **Social (Media) Jet Lag: How Usage of Social Technology Can Modulate and Reflect Circadian Rhythms**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2015\
+\[[doi](https://doi.org/10.1145/2750858.2807522)\] &bull; \[[pdf]({% link /files/pubs/social-media-jet-lag-ubicomp-2015.pdf %})\]
 
-* **Collective smile: measuring societal happiness from geolocated images** <br />
-CSCW, 2015 &bull;
-\[[project](/projects/sentiment-analysis-image.html)\] &bull; \[[doi](https://doi.org/10.1145/2675133.2675186)\] &bull; \[[pdf](/files/pubs/collective-smile-cscw-2015.pdf)\]
+* **In Situ Design for Mental Illness: Considering the Pathology of Bipolar Disorder in mHealth Design**\
+_Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2015\
+\[[doi](https://doi.org/10.1145/2785830.2785866)\] &bull; \[[pdf]({% link /files/pubs/moodrhythm-mobilehci-2015.pdf %})\]
 
-* **MoodLight: Exploring personal and social implications of ambient display of biosensor data** <br />
-CSCW, 2015 &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1145/2675133.2675191)\] &bull; \[[pdf](/files/pubs/moodlight-cscw-2015.pdf)\]
+* **Collective Smile: Measuring Societal Happiness from Geolocated Images**\
+_Conference on Computer Supported Cooperative Work &amp; Social Computing (CSCW)_, 2015\
+\[[doi](https://doi.org/10.1145/2675133.2675186)\] &bull; \[[pdf]({% link /files/pubs/collective-smile-cscw-2015.pdf %})\]
 
-* **Towards Circadian Computing: "early to bed and early to rise" makes some of us unhealthy and sleep deprived** <br />
-UbiComp, 2014 &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1145/2632048.2632100)\] &bull; \[[pdf](/files/pubs/circadian-computing-ubicomp-2014.pdf)\]
+* **MoodLight: Exploring Personal and Social Implications of Ambient Display of Biosensor Data**\
+_Conference on Computer Supported Cooperative Work &amp; Social Computing (CSCW)_, 2015\
+\[[doi](https://doi.org/10.1145/2675133.2675191)\] &bull; \[[pdf]({% link /files/pubs/moodlight-cscw-2015.pdf %})\]
 
-* **Towards population scale activity recognition: a scalable framework for handling data diversity** <br />
-AAAI, 2012 &bull;
-\[[project](/projects/csn.html)\] &bull; \[[link](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewPaper/5169)\] &bull; \[[pdf](/files/pubs/activity-recognition-aaai-2012.pdf)\]
+* **Towards Circadian Computing: “early to bed and early to rise” makes some of us unhealthy and sleep deprived**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2014\
+\[[doi](https://doi.org/10.1145/2632048.2632100)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-ubicomp-2014.pdf %})\]
 
-* **An epidemic model for news spreading on twitter** <br />
-ICTAI, 2011 &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1109/ICTAI.2011.33)\] &bull; \[[pdf](/files/pubs/twitter-ictai-2011.pdf)\]
+* **Towards Population Scale Activity Recognition: A Framework for Handling Data Diversity**\
+_AAAI Conference on Artificial Intelligence_, 2012\
+\[[link](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewPaper/5169)\] &bull; \[[pdf]({% link /files/pubs/activity-recognition-aaai-2012.pdf %})\]
+
+* **An Epidemic Model for News Spreading on Twitter**\
+_Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
+\[[doi](https://doi.org/10.1109/ICTAI.2011.33)\] &bull; \[[pdf]({% link /files/pubs/twitter-ictai-2011.pdf %})\]
 
 
-### Workshop Papers and Abstracts ###
+### Workshop Papers &amp; Abstracts ###
+* **Nurse AMIE: Using Smart Speakers to Provide Supportive Care Intervention for Women with Metastatic Breast Cancer**\
+_CHI Conference on Human Factors in Computing Systems_, 2021\
+\[[doi](https://doi.org/10.1145/3411763.3451827)\] &bull; \[[pdf]({% link /files/pubs/2021-nurse-amie-chi.pdf %})\]
 
-* **Conversational agents to provide couple therapy for patients with PTSD** <br />
-Pervasive Health, 2018 (WellBeCoach) &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1145/3240925.3240933)\] &bull; \[[pdf](/files/pubs/ca-ptsd-pervasive-health-2018.pdf)\]
+* **Using Tweets to Assess Mental Well-being of Essential Workers During the COVID-19 Pandemic**\
+_CHI Conference on Human Factors in Computing Systems_, 2021\
+\[[doi](https://doi.org/10.1145/3411763.3451612)\] &bull; \[[pdf]({% link /files/pubs/2021-tweet-essenial-worker-chi.pdf %})\]
 
-* **Supporting constructive mental health discourse in social media** <br />
-Pervasive Health, 2018 (Design4Diversity) &bull;
-\[[project](/projects/#)\] &bull; \[[doi](https://doi.org/10.1145/3240925.3240930)\] &bull; \[[pdf](/files/pubs/discourse-pervasive-health-2018.pdf)\]
+* **Opportunities for Collaborative Clinical Work: Predicting Relapse Onset in Bipolar Disorder from Online Behavior**\
+_Pervasive Health_, 2020\
+\[[doi](https://doi.org/10.1145/3421937.3421947)\] &bull; \[[pdf]({% link /files/pubs/2020-bd-clinical-work-pervasive-health.pdf %})\]
 
-* **Assessing mental health issues on college campuses: preliminary findings from a pilot study** <br />
-UbiComp, 2016 &bull;
-\[[project](/projects/campus-life.html)\] &bull; \[[doi](https://doi.org/10.1145/2968219.2968308)\] &bull; \[[pdf](/files/pubs/campus-life-ubicomp-2016.pdf)\]
+* **WatchOver: using Apple watches to assess and predict substance co-use in young adults**\
+_Mental health: Sensing &amp; Intervention (MHSI) workshop at UbiComp_, 2020\
+\[[doi](https://doi.org/10.1145/3410530.3414373)\] &bull; \[[pdf]({% link /files/pubs/2020-watch-over-ubicomp.pdf %})\]
 
-* **Towards circadian computing: a sensing & intervention framework for body clock friendly technology** <br />
-UbiComp, 2015 (Doctoral Colloquium) &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1145/2800835.2801657)\] &bull; \[[pdf](/files/pubs/circadian-computing-ubicomp-2015.pdf)\]
+* **Investigating Users' Perceptions of Light Behaviors in Smart-Speakers**\
+_Conference on Computer Supported Cooperative Work &amp; Social Computing (CSCW)_, 2019\
+\[[doi](https://doi.org/10.1145/3311957.3359479)\] &bull; \[[pdf]({% link /files/pubs/2019-light-behaviors-cscw.pdf %})\]
 
-* **Circadian Computing: Towards bodyclock friendly technology** <br />
-HCIC: Human Computer Interaction Consortium Workshop, 2014 &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[pdf](/files/pubs/clockwise-hcic-2014.pdf)\]
+* **Can Alexa be your Therapist? How Back-Channeling Transforms Smart-Speakers to be Active Listeners**\
+_Conference on Computer Supported Cooperative Work &amp; Social Computing (CSCW)_, 2019\
+\[[doi](https://doi.org/10.1145/3311957.3359502)\] &bull; \[[pdf]({% link /files/pubs/2019-alexa-therapist-cscw.pdf %})\]
 
-* **Biological rhythms and technology** <br />
-CHI, 2014 &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[doi](https://doi.org/10.1145/2559206.2559230)\] &bull; \[[pdf](/files/pubs/biological-rhythms-chi-2014.pdf)\]
 
-* **Light, color, affect, and stress** <br />
-4S: Society for Social Studies of Science, 2013
+* **Understanding the Needs and Challenges of Using Conversational Agents for Deaf Older Adults**\
+_Conference on Computer Supported Cooperative Work &amp; Social Computing (CSCW)_, 2019\
+\[[doi](https://doi.org/10.1145/3311957.3359487)\] &bull; \[[pdf]({% link /files/pubs/2019-deaf-older-adults-cscw.pdf %})\]
 
-* **Clockwise: inferring chronotype and daily patterns from smartphone use** <br />
-UbiComp, 2013 (Doctoral Colloquium) &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[pdf](/files/pubs/clockwise-ubicomp-2013.pdf)\]
+* **Conversational agents to provide couple therapy for patients with PTSD**\
+_WellBeCoach: Smart Coaching Solutions for Health \& Wellbeing workshop at Pervasive Health_, 2018\
+\[[doi](https://doi.org/10.1145/3240925.3240933)\] &bull; \[[pdf]({% link /files/pubs/ca-ptsd-pervasive-health-2018.pdf %})\]
 
-### Posters and Demos ###
+* **Supporting constructive mental health discourse in social media**\
+_Design4Diversity workshop at Pervasive Health_, 2018\
+\[[doi](https://doi.org/10.1145/3240925.3240930)\] &bull; \[[pdf]({% link /files/pubs/discourse-pervasive-health-2018.pdf %})\]
 
-* **Understanding the Needs and Challenges of Using Conversational Agents for Deaf Older Adults** <br />
-CSCW, 2019 &bull; \[[project](#)\] &bull; \[[pdf](/files/pubs/dhh-smartspeaker-cscw-2019.pdf)\] &bull; \[[doi](https://doi.org/10.1145/3311957.3359487)\]
+* **Assessing mental health issues on college campuses: preliminary findings from a pilot study**\
+_Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
+\[[doi](https://doi.org/10.1145/2968219.2968308)\] &bull; \[[pdf]({% link /files/pubs/campus-life-ubicomp-2016.pdf %})\]
 
-* **Investigating Users' Perceptions of Light Behaviors in Smart-Speakers** <br />
-CSCW, 2019
-\[[project](#)\] &bull; \[[pdf](/files/pubs/light-smartspeaker-cscw-2019.pdf)\] &bull; \[[doi](https://doi.org/10.1145/3311957.3359479)\]
+* **Towards circadian computing: a sensing & intervention framework for body clock friendly technology**\
+_Doctoral Colloquium at UbiComp_, 2015\
+\[[doi](https://doi.org/10.1145/2800835.2801657)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-ubicomp-2015.pdf %})\]
 
-* **Can Alexa be your Therapist?: How Back-Channeling Transforms Smart-Speakers to be Active Listeners** <br />
-CSCW, 2019 &bull; \[[project](#)\] &bull; \[[pdf](/files/pubs/backchanneling-alexa-cscw-2019.pdf)\] &bull; \[[doi](https://doi.org/10.1145/3311957.3359502)\]
+* **Biological rhythms and technology**\
+_CHI Conference on Human Factors in Computing Systems_, 2014\
+\[[doi](https://doi.org/10.1145/2559206.2559230)\] &bull; \[[pdf]({% link /files/pubs/biological-rhythms-chi-2014.pdf %})\]
 
-* **Automatic detection of social rhythms in bipolar disorder via smartphone** <br />
-American College of Neuropsychopharmacology, 2015 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/posters/moodrhythm-acnp-2015.pdf)\]
 
-* **SAINT: a scalable sensing and inference toolkit** <br />
-ACM HotMobile, 2015 &bull;
-\[[pdf](/files/pubs/saint-hotmobile-2015.pdf)\]
+### Posters &amp; Demos ###
 
-* **Towards circadian computing: "early to bed and early to rise" makes some of us unhealthy and sleep deprived** <br />
-Intel Science and Technology Center for Pervasive Computing (ISTC-PC), 2014 &bull;
-\[[project](/projects/clockwise.html)\] &bull; \[[pdf](/files/posters/clockwise-istc-2014.pdf)\]
+* **Automatic detection of social rhythms in bipolar disorder via smartphone**\
+_American College of Neuropsychopharmacology (ACNP)_, 2015\
+\[[pdf]({% link /files/posters/moodrhythm-acnp-2015.pdf %})\]
 
-* **Developing a smartphone app to monitor mood, social rhythms, sleep and social activity: technology to support effective management of bipolar disorder** <br />
-American College of Neuropsychopharmacology (ACNP), 2013 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[pdf](/files/posters/moodrhythm-acnp-2013.pdf)\]
+* **Circadian Computing: Towards bodyclock friendly technology**\
+_Human Computer Interaction Consortium Workshop (HCIC)_, 2015\
+\[[pdf]({% link /files/pubs/clockwise-hcic-2014.pdf %})\]
 
-* **MoodRhythm: Tracking and supporting daily rhythms** <br />
-Interactive demo in UbiComp, 2013 &bull;
-\[[project](/projects/mood-rhythm.html)\] &bull; \[[doi](https://dx.doi.org/10.1145/2494091.2494111)\] &bull; \[[pdf](/files/pubs/moodrhythm-demo-ubicomp-2013.pdf)\]
 
-* **Towards population scale activity recognition: a framework for handling data diversity** <br />
-Intel Science and Technology Center for Pervasive Computing (ISTC-PC), 2012 &bull;
-\[[project](/projects/csn.html)\]
+* **SAINT: a scalable sensing and inference toolkit**\
+_Workshop on Mobile Computing Systems and Applications (ACM HotMobile)_, 2015\
+\[[pdf]({% link /files/pubs/saint-hotmobile-2015.pdf %})\]
+
+* **Towards circadian computing: “early to bed and early to rise” makes some of us unhealthy and sleep deprived**\
+_Intel Science and Technology Center for Pervasive Computing (ISTC-PC)_, 2014\
+\[[pdf]({% link /files/posters/clockwise-istc-2014.pdf %})\]
+
+* **Developing a smartphone app to monitor mood, social rhythms, sleep and social activity: technology to support effective management of bipolar disorder**\
+_American College of Neuropsychopharmacology (ACNP)_, 2013\
+\[[pdf]({% link /files/posters/moodrhythm-acnp-2013.pdf %})\]
+
+* **MoodRhythm: Tracking and supporting daily rhythms**\
+_Interactive demo in UbiComp_, 2013\
+\[[doi](https://dx.doi.org/10.1145/2494091.2494111)\] &bull; \[[pdf]({% link /files/pubs/moodrhythm-demo-ubicomp-2013.pdf %})\]
+
+* **Clockwise: inferring chronotype and daily patterns from smartphone use**\
+_Doctoral Colloquium at UbiComp_, 2013\
+\[[pdf]({% link /files/pubs/clockwise-ubicomp-2013.pdf %})\]
+
+
+* **Light, color, affect, and stress**\
+_Society for Social Studies of Science (4S)_, 2013
+
+
+* **Towards population scale activity recognition: a framework for handling data diversity**\
+_Intel Science and Technology Center for Pervasive Computing (ISTC-PC)_, 2012
+
