@@ -8,8 +8,8 @@ selective with often less than 30% acceptance rate. Papers in those conferences
 are considered as top research contributions with
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 
-This page lists my most recent work. My [cv](/files/cv.pdf) provides a complete listing
-with more details (e.g., acceptance rate).
+This page lists my most recent work. My [CV]({% link /files/cv.pdf %}) provides a complete listing
+with more details.
 
 * [Book Chapters](#book-chapters)
 * [Journal Articles](#journal-articles)
@@ -17,7 +17,7 @@ with more details (e.g., acceptance rate).
 * [Workshop Papers & Abstracts](#workshop-papers--abstracts)
 * [Posters & Demos](#posters--demos)
 
-### Book Chapters ###
+## Book Chapters ##
 * **Ubiquitous computing for person-environment research: Opportunities, considerations, and future directions**\
 _Measuring and Modeling Persons and Situations_, 2021\
 In Press.
@@ -26,7 +26,7 @@ In Press.
 _Mobile Health (Springer)_, 2017\
 \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
-### Journal Articles ###
+## Journal Articles ##
 * **A Query Conundrum: The Mental Challenges of Using a Cognitive Assistant**\
 _SN Computer Science_, 2021\
 \[[doi](https://doi.org/10.1007/s42979-021-00621-9)\] &bull; \[[pdf]({% link /files/pubs/2021-query-sn-computer.pdf %})\]
@@ -63,7 +63,7 @@ _Psychiatric Services_, 2015\
 _IEEE Computer_, 2014\
 \[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf]({% link /files/pubs/tracking-ieee-2014.pdf %})\]
 
-### Conference Papers ###
+## Conference Papers ##
 
 * **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
 _CHI Conference on Human Factors in Computing Systems_, 2020
@@ -134,7 +134,7 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 \[[doi](https://doi.org/10.1109/ICTAI.2011.33)\] &bull; \[[pdf]({% link /files/pubs/twitter-ictai-2011.pdf %})\]
 
 
-### Workshop Papers &amp; Abstracts ###
+## Workshop Papers &amp; Abstracts ##
 * **Nurse AMIE: Using Smart Speakers to Provide Supportive Care Intervention for Women with Metastatic Breast Cancer**\
 _CHI Conference on Human Factors in Computing Systems_, 2021\
 \[[doi](https://doi.org/10.1145/3411763.3451827)\] &bull; \[[pdf]({% link /files/pubs/2021-nurse-amie-chi.pdf %})\]
@@ -185,7 +185,7 @@ _CHI Conference on Human Factors in Computing Systems_, 2014\
 \[[doi](https://doi.org/10.1145/2559206.2559230)\] &bull; \[[pdf]({% link /files/pubs/biological-rhythms-chi-2014.pdf %})\]
 
 
-### Posters &amp; Demos ###
+## Posters &amp; Demos ##
 
 * **Automatic detection of social rhythms in bipolar disorder via smartphone**\
 _American College of Neuropsychopharmacology (ACNP)_, 2015\
