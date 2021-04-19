@@ -166,7 +166,7 @@ _Conference on Computer Supported Cooperative Work &amp; Social Computing (CSCW)
 \[[doi](https://doi.org/10.1145/3311957.3359487)\] &bull; \[[pdf]({% link /files/pubs/2019-deaf-older-adults-cscw.pdf %})\]
 
 * **Conversational agents to provide couple therapy for patients with PTSD**\
-_WellBeCoach: Smart Coaching Solutions for Health \& Wellbeing workshop at Pervasive Health_, 2018\
+_WellBeCoach: Smart Coaching Solutions for Health &amp; Wellbeing workshop at Pervasive Health_, 2018\
 \[[doi](https://doi.org/10.1145/3240925.3240933)\] &bull; \[[pdf]({% link /files/pubs/ca-ptsd-pervasive-health-2018.pdf %})\]
 
 * **Supporting constructive mental health discourse in social media**\
