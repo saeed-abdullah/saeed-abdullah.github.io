@@ -59,7 +59,7 @@ _IEEE Computer_, 2014\
 \[[doi](https://doi.org/10.1109/MC.2014.107)\] &bull; \[[pdf]({% link /files/pubs/tracking-ieee-2014.pdf %})\]
 
 <label for="hci-conference-description" class="margin-toggle">&#8853;</label><input type="checkbox" id="hci-conference-description" class="margin-toggle"><span class="marginnote">
-In Human-Computer Interaction (HCI) research, top-tier conferences are highly
+In the Human-Computer Interaction (HCI) community, top-tier conferences are highly
 selective with often less than 30% acceptance rate (take a look at my [CV]({% link /files/cv.pdf %})
 for acceptance rates). Papers in those conferences are considered as top research contributions with
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
