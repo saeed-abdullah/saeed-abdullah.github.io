@@ -70,7 +70,7 @@ for acceptance rates). Papers in those conferences are considered as top researc
 _CHI Conference on Human Factors in Computing Systems_, 2020
 \[[doi](https://doi.org/10.1145/3313831.3376561)\] &bull; \[[pdf]({% link /files/pubs/public-speaking-smartspeaker-CHI-2020.pdf %})\]
 
-<label for="2020-chi-honorable-mention" class="margin-toggle">&#8853;</label><input type="checkbox" id="2020-chi-honorable-mention" class="margin-toggle"><span class="marginnote">Honorable Mention (top 5% of submissions)</span>
+<label for="2020-chi-honorable-mention" class="margin-toggle">&#8853;</label><input type="checkbox" id="2020-chi-honorable-mention" class="margin-toggle"><span class="marginnote">**Honorable Mention (top 5% of submissions)**</span>
 * **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
 _CHI Conference on Human Factors in Computing Systems_, 2020\
 \[[doi](https://doi.org/10.1145/3313831.3376551)\] &bull; \[[pdf]({% link /files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf %})\]
@@ -97,7 +97,7 @@ _Conference on Pervasive and Ubiquitous Computing (UbiComp)_, 2016\
 \[[doi](https://doi.org/10.1145/2971648.2971740)\] &bull; \[[pdf]({% link /files/pubs/crosscheck-ubicomp-2016.pdf %})\]
 
 * **&#9733;**
-<label for="2016-mobilehci-best-paper" class="margin-toggle">&#8853;</label><input type="checkbox" id="2016-mobilehci-best-paper" class="margin-toggle"><span class="marginnote">Best paper award (top 2 papers)</span>
+<label for="2016-mobilehci-best-paper" class="margin-toggle">&#8853;</label><input type="checkbox" id="2016-mobilehci-best-paper" class="margin-toggle"><span class="marginnote">**Best paper award (top 2 papers)**</span>
 **Mobile manifestations of alertness: Connecting biological rhythms with patterns of smartphone app use**\
 _Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2016\
 \[[doi](https://doi.org/10.1145/2935334.293538)\] &bull; \[[pdf]({% link /files/pubs/alertness-mobilehci-2016.pdf %})\]
