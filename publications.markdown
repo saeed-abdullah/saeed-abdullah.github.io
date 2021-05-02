@@ -66,15 +66,18 @@ for acceptance rates). Papers in those conferences are considered as top researc
 </span>
 ## Conference Papers ##
 
-* **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
-_CHI Conference on Human Factors in Computing Systems_, 2020
-\[[doi](https://doi.org/10.1145/3313831.3376561)\] &bull; \[[pdf]({% link /files/pubs/public-speaking-smartspeaker-CHI-2020.pdf %})\]
+* **Assessing effectiveness and interpretability of light behaviors in smart speakers**\
+_Conversational User Interfaces_, 2021\
+In Press.
 
 <label for="2020-chi-honorable-mention" class="margin-toggle">&#8853;</label><input type="checkbox" id="2020-chi-honorable-mention" class="margin-toggle"><span class="marginnote">**Honorable Mention (top 5% of submissions)**</span>
 * **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
 _CHI Conference on Human Factors in Computing Systems_, 2020\
 \[[doi](https://doi.org/10.1145/3313831.3376551)\] &bull; \[[pdf]({% link /files/pubs/customization-privacy-smartspeaker-CHI-2020.pdf %})\]
 
+* **Alexa as Coach: Leveraging Smart Speakers to Build Social Agents that Reduce Public Speaking Anxiety**\
+_CHI Conference on Human Factors in Computing Systems_, 2020\
+\[[doi](https://doi.org/10.1145/3313831.3376561)\] &bull; \[[pdf]({% link /files/pubs/public-speaking-smartspeaker-CHI-2020.pdf %})\]
 
 * **AlertnessScanner: What Do Your Pupils Tell About Your Alertness**\
 _Conference on human-computer interaction with mobile devices and services (MobileHCI)_, 2018\
