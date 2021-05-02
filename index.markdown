@@ -4,7 +4,7 @@ title: Home
 title_no_show: true
 ---
 
-**Hi, I am Saeed Abdullah.**
+**Hi, I am Saeed Abdullah**.
 
 I am an assistant professor in the College of Information Sciences
 and Technology ([IST][ist-link]) at Penn State. I also lead the
