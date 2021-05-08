@@ -16,12 +16,33 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <title>
+    {% comment %}
+    The default page title is derived from `page.title` + &middot; + `site.title`.
+    This can be turned off by setting `title_no_show: true`
+    {% endcomment %}
+
     {% if page.title_no_show %}
-      {{ site.title }}
+        {% assign computed_title =  site.title %}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+        {% assign computed_title =  page.title | append: " &middot; " | append: site.title  %}
     {% endif %}
-  </title>
+
+ <title>{{ computed_title }}</title>
+
+ <meta name="author" content="Saeed Abdullah" />
+ <meta name="title" content="{{ computed_title }}" />
+
+    {% comment %}
+    The default page description is derived from `page.description`.
+    If no `page.description`, it will default to `site.description`.
+    {% endcomment %}
+
+    {% if page.description %}
+        {% assign computed_description =  page.description %}
+    {% else %}
+        {% assign computed_description =  site.description %}
+    {% endif %}
+
+ <meta name="description" content="{{ computed_description }}" />
 
 </head>

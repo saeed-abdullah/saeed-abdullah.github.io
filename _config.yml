@@ -5,12 +5,10 @@ permalink   : none
 markdown    : kramdown
 
 title:            'Saeed Abdullah'
-tagline:          ''
-description:      'Assistant Professor, Penn State IST. <a href="https://twitter.com/saeed_siam">@saeed_siam</a>'
+description:      'Personal webpage of Saeed Abdullah (assistant professor, Penn State).'
 url:              saeedabdullah.com
 
 author:
   name:           'Saeed Abdullah'
-  url:            https://twitter.com/saeed_siam
 
 # paginate:         5
