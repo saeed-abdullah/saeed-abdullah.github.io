@@ -54,9 +54,9 @@ For this analysis, I only retain tokens that have been mentioned at least 5000 t
 --- resulting in 4565 unique ones. The longest tokens from the selected set are
 more familiar ones:
 
-| Token | Frequency |
-| ----- | -------- |
-|congratulations| 13883|
+
+| **Token** | **Frequency** |
+| :-----: | :--------: |
 |international| 24321|
 |relationships| 17383|
 |entertainment| 10395|
