@@ -2,8 +2,17 @@
 title: News
 layout: page
 ---
+* _April, 2021_: Penn State News [featured our project using smart speakers to create a personalized care platform for women with metastatic breast cancer](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
-* _January, 2021_: Our recent [work on deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf) has been featured in [Penn State News](https://news.psu.edu/story/643330/2021/01/07/research/study-suggests-smart-assistant-design-improvements-deaf-users), [ScienceBlog](https://scienceblog.com/520393/study-suggests-smart-assistant-design-improvements-for-deaf-users/), and [Hearing Review](https://www.hearingreview.com/inside-hearing/research/smart-assistant).
+* _April, 2021_: Our workshop proposal focusing on [mental health and wellbeing](https://ubicomp-mental-health.github.io/workshop-2021.html) has been accepted for [UbiComp 2021](https://ubicomp.org/ubicomp2021/program/workshops/). Please consider attending.
+
+* _March, 2021_: Our paper on [mental challenges of using a cognitive Assistant]({%link files/pubs/2021-query-sn-computer.pdf %}) has been accepted in the [SN Computer Science journal](https://doi.org/10.1007/s42979-021-00621-9)!
+
+* _February, 2021_: I will be serving as [a scholarship co-chair for UbiComp/ISWC 2021](https://ubicomp.hosting.acm.org/ubicomp2021/organizing-committee/).
+
+* _January, 2021_: We have [two]({%link /files/pubs/2021-nurse-amie-chi.pdf%}) [papers]({%link /files/pubs/2021-tweet-essential-worker-chi.pdf %}) accepted in CHI 2021 Late Breaking work!
+
+* _January, 2021_: Our recent [work on deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf) has been featured in [Penn State News](https://news.psu.edu/story/643330/2021/01/07/research/study-suggests-smart-assistant-design-improvements-deaf-users), [ScienceBlog](https://scienceblog.com/520393/study-suggests-smart-assistant-design-improvements-for-deaf-users/), [Hearing Review](https://www.hearingreview.com/inside-hearing/research/smart-assistant), and [Top of Mind with Julie Rose](https://www.byuradio.org/b30d7f99-9ed6-4e36-b597-6b4840718d4b).
 
 2020
 ----
