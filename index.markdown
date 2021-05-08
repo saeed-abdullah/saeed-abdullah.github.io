@@ -26,7 +26,9 @@ on][projects].
 Feel free to get in touch at _me@saeedabdullah.com_ or
 [@saeed_siam][twitter].
 
+{% comment %}
 {% include recent_posts.html %}
+{% endcomment %}
 
 
 
