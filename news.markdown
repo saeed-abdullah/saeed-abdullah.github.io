@@ -4,7 +4,7 @@ layout: page
 ---
 * _April, 2021_: Penn State News [featured our project using smart speakers to create a personalized care platform for women with metastatic breast cancer](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
-* _April, 2021_: Our workshop proposal focusing on [mental health and wellbeing](https://ubicomp-mental-health.github.io/workshop-2021.html) has been accepted for [UbiComp 2021](https://ubicomp.org/ubicomp2021/program/workshops/). Please consider attending.
+* _April, 2021_: Our workshop proposal focusing on [mental health and wellbeing](https://ubicomp-mental-health.github.io/workshop-2021.html) has been accepted in [UbiComp 2021](https://ubicomp.org/ubicomp2021/program/workshops/). Please consider attending.
 
 * _March, 2021_: Our paper on [mental challenges of using a cognitive Assistant]({%link files/pubs/2021-query-sn-computer.pdf %}) has been accepted in the [SN Computer Science journal](https://doi.org/10.1007/s42979-021-00621-9)!
 
