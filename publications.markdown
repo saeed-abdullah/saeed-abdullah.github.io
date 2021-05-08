@@ -145,7 +145,7 @@ _CHI Conference on Human Factors in Computing Systems_, 2021\
 
 * **Using Tweets to Assess Mental Well-being of Essential Workers During the COVID-19 Pandemic**\
 _CHI Conference on Human Factors in Computing Systems_, 2021\
-\[[doi](https://doi.org/10.1145/3411763.3451612)\] &bull; \[[pdf]({% link /files/pubs/2021-tweet-essenial-worker-chi.pdf %})\]
+\[[doi](https://doi.org/10.1145/3411763.3451612)\] &bull; \[[pdf]({% link /files/pubs/2021-tweet-essential-worker-chi.pdf %})\]
 
 * **Opportunities for Collaborative Clinical Work: Predicting Relapse Onset in Bipolar Disorder from Online Behavior**\
 _Pervasive Health_, 2020\
