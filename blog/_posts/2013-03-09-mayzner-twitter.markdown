@@ -59,12 +59,14 @@ more familiar ones:
 | :-----: | :--------: |
 |international| 24321|
 |relationships| 17383|
+|congratulations| 13883|
 |entertainment| 10395|
 |automatically| 7876|
 |understanding| 7241|
 |unfortunately| 7075|
 |conversations| 6996|
 |opportunities| 5242|
+
 
 Limiting to at least 5000 mentions results in 327,767,619 tokens and 
 1,194,137,386 letters in total. The letter frequency looks like this:
