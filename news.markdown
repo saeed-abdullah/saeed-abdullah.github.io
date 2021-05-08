@@ -38,7 +38,7 @@ layout: page
 
 * _March, 2019_: I have received the 2019 **Junior Faculty Excellence Award in Research** from [IST](https://news.psu.edu/story/567207/2019/04/03/faculty-and-staff-recognized-annual-ist-awards-reception)!
 
-* _March, 2019_: I am serving as a publicity chair in [UbiComp 2019](http://ubicomp.org/ubicomp2019/). Please consider attending.
+* _March, 2019_: I am serving as a publicity chair for [UbiComp 2019](http://ubicomp.org/ubicomp2019/). Please consider attending.
 
 * _March, 2019_: Our project has been [featured in Penn State News](https://news.psu.edu/story/562939/2019/03/13/research/close-watch-ist-seed-grant-funds-study-assess-and-predict-substance).
 
