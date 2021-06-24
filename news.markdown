@@ -2,6 +2,8 @@
 title: News
 layout: page
 ---
+* _May, 2021_: I am co-editing a Frontiers’ Research Topic: [Quantitative Modeling of Psychopathology Using Passively Collected Data](https://www.frontiersin.org/research-topics/21293/quantitative-modeling-of-psychopathology-using-passively-collected-data). Please consider submitting your work!
+
 * _April, 2021_: Penn State News [featured our project using smart speakers to create a personalized care platform for women with metastatic breast cancer](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
 
 * _April, 2021_: Our workshop proposal focusing on [mental health and wellbeing](https://ubicomp-mental-health.github.io/workshop-2021.html) has been accepted in [UbiComp 2021](https://ubicomp.org/ubicomp2021/program/workshops/). Please consider attending.
