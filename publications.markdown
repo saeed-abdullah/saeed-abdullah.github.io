@@ -15,7 +15,7 @@ with more details.
 ## Book Chapters ##
 * **Ubiquitous computing for person-environment research: Opportunities, considerations, and future directions**\
 _Measuring and Modeling Persons and Situations_, 2021\
-In Press.
+\[[doi](https://doi.org/10.1016/B978-0-12-819200-9.00020-X)\] &bull; \[[pdf]({% link /files/pubs/2021-ubicomp-book-chapter.pdf %})\]
 
 * **Circadian Computing: sensing, modeling, and maintaining Biological Rhythms**\
 _Mobile Health (Springer)_, 2017\
