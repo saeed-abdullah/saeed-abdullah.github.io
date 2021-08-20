@@ -68,7 +68,7 @@ for acceptance rates). Papers in those conferences are considered as top researc
 
 * **Assessing effectiveness and interpretability of light behaviors in smart speakers**\
 _Conversational User Interfaces_, 2021\
-In Press.
+\[[doi](https://doi.org/10.1145/3469595.3469610)\] &bull; \[[pdf]({%link /files/pubs/2021-light-smart-speakers.pdf %})\]
 
 <label for="2020-chi-honorable-mention" class="margin-toggle">&#8853;</label><input type="checkbox" id="2020-chi-honorable-mention" class="margin-toggle"><span class="marginnote">**Honorable Mention (top 5% of submissions)**</span>
 * **&#9733; Will Deleting History Make Alexa More Trustworthy? Effects of Privacy and Content Customization on User Experience of Smart Speakers**\
