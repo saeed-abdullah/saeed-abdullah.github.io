@@ -22,6 +22,10 @@ _Mobile Health (Springer)_, 2017\
 \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
 ## Journal Articles ##
+* **Alexa as an Active Listener: How Backchanneling Can Elicit Self-Disclosure and Promote User Experience**\
+_Proceedings of the ACM on Human-Computer Interaction (PACM HCI)_, 2022\
+_In Press_
+
 * **A Query Conundrum: The Mental Challenges of Using a Cognitive Assistant**\
 _SN Computer Science_, 2021\
 \[[doi](https://doi.org/10.1007/s42979-021-00621-9)\] &bull; \[[pdf]({% link /files/pubs/2021-query-sn-computer.pdf %})\]
@@ -139,6 +143,14 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 
 ## Workshop Papers &amp; Abstracts ##
+* **PTSDialogue: Designing a Conversational Agent to Support Individuals with Post-Traumatic Stress Disorder**\
+_Mental health: Sensing &amp; Intervention (MHSI) workshop at UbiComp_, 2021\
+\[[doi](https://dl.acm.org/doi/10.1145/3460418.3479332)\] &bull; \[[pdf]({% link /files/pubs/2021-ptsdialogue-ubicomp.pdf %})\]
+
+* **Voice Assistants for Speech Therapy**\
+_Mental health: Sensing &amp; Intervention (MHSI) workshop at UbiComp_, 2021\
+\[[doi](https://dl.acm.org/doi/10.1145/3460418.3479336)\] &bull; \[[pdf]({% link /files/pubs/2021-speech-therapy-ubicomp.pdf %})\]
+
 * **Nurse AMIE: Using Smart Speakers to Provide Supportive Care Intervention for Women with Metastatic Breast Cancer**\
 _CHI Conference on Human Factors in Computing Systems_, 2021\
 \[[doi](https://doi.org/10.1145/3411763.3451827)\] &bull; \[[pdf]({% link /files/pubs/2021-nurse-amie-chi.pdf %})\]
