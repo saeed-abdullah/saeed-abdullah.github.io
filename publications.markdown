@@ -4,7 +4,7 @@ layout: page
 ---
 
 This page lists my most recent work. My [CV]({% link /files/cv.pdf %}) provides a complete listing
-with more details.
+with more details. You can also check [my Google Scholar profile](https://scholar.google.com/citations?user=UK1Z4wYAAAAJ).
 
 * [Book Chapters](#book-chapters)
 * [Journal Articles](#journal-articles)
