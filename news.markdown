@@ -2,6 +2,18 @@
 title: News
 layout: page
 ---
+
+* _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) ($74,379) to support financial wellbeing of individuals with bipolar disorder.
+
+* _January, 2022_: Our paper on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org/).
+
+* _January, 2022_: Our paper on the use of Alexa as an active listener and its implication for mental health support has been accepted in [CSCW](https://cscw.acm.org/2022/).
+
+2021
+----
+
+* _June, 2021_: Our book chapter on [ubiquitous computing for person-environment research]({% link /files/pubs/2021-ubicomp-book-chapter.pdf %}) has been [published](https://doi.org/10.1016/B978-0-12-819200-9.00020-X).
+
 * _May, 2021_: I am co-editing a Frontiers’ Research Topic: [Quantitative Modeling of Psychopathology Using Passively Collected Data](https://www.frontiersin.org/research-topics/21293/quantitative-modeling-of-psychopathology-using-passively-collected-data). Please consider submitting your work!
 
 * _April, 2021_: Penn State News [featured our project using smart speakers to create a personalized care platform for women with metastatic breast cancer](https://news.psu.edu/story/656467/2021/04/27/research/amazon-alexa-skill-offers-supportive-care-breast-cancer-patients).
