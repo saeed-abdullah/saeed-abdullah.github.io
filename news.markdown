@@ -12,6 +12,10 @@ layout: page
 2021
 ----
 
+* _August, 2021_: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
+
+* _June, 2021_: We gave a keynote speech at the [Canadian Hard of Hearing Association (CHHA ) National Educational Conference](https://www.chhaconference.ca/agenda) discussing our recent [work on deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf).
+
 * _June, 2021_: Our book chapter on [ubiquitous computing for person-environment research]({% link /files/pubs/2021-ubicomp-book-chapter.pdf %}) has been [published](https://doi.org/10.1016/B978-0-12-819200-9.00020-X).
 
 * _May, 2021_: I am co-editing a Frontiers’ Research Topic: [Quantitative Modeling of Psychopathology Using Passively Collected Data](https://www.frontiersin.org/research-topics/21293/quantitative-modeling-of-psychopathology-using-passively-collected-data). Please consider submitting your work!
