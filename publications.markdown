@@ -22,9 +22,21 @@ _Mobile Health (Springer)_, 2017\
 \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
 ## Journal Articles ##
+* **Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health**\
+_Frontiers in Psychiatry_, 2022\
+\[[doi](https://doi.org/10.3389/fpsyt.2022.810057)\] &bull; \[[pdf]({% link /files/pubs/2022-fintech-frontiers.pdf %})\]
+
 * **Alexa as an Active Listener: How Backchanneling Can Elicit Self-Disclosure and Promote User Experience**\
 _Proceedings of the ACM on Human-Computer Interaction (PACM HCI)_, 2022\
-_In Press_
+\[[doi](https://doi.org/10.1145/3555164)\] &bull; \[[pdf]({% link /files/pubs/2022-alexa-active-listener-cscw.pdf %})\]
+
+* **Overcoming Clinician Technophobia: What We Learned from Our Mass Exposure to Telehealth During the COVID-19 Pandemic**\
+_Journal of Technology in Behavioral Science_, 2022\
+\[[doi](https://doi.org/10.1007/s41347-022-00273-3)\] &bull; \[[pdf]({% link /files/pubs/2022-telehealth-covid19.pdf %})\]
+
+* **Understanding Design Approaches and Evaluation Methods in mHealth Apps Targeting Substance Use: Protocol for a Systematic Review**\
+_JMIR Research Protocols_, 2022\
+\[[doi](https://doi.org/10.2196/35749)\] &bull; \[[pdf]({% link /files/pubs/2022-substance-abuse-review-protocol-jmir.pdf %})\]
 
 * **A Query Conundrum: The Mental Challenges of Using a Cognitive Assistant**\
 _SN Computer Science_, 2021\
@@ -69,6 +81,10 @@ for acceptance rates). Papers in those conferences are considered as top researc
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 </span>
 ## Conference Papers ##
+
+* **Privacy Sensitive Speech Analysis Using Federated Learning To Assess Depression**\
+_IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)_\
+\[[doi](https://doi.org/10.1109/ICASSP43922.2022.9746827)\] &bull; \[[pdf]({%link /files/pubs/2022-depression-icassp.pdf %})\]
 
 * **Assessing effectiveness and interpretability of light behaviors in smart speakers**\
 _Conversational User Interfaces_, 2021\
@@ -143,6 +159,9 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 
 ## Workshop Papers &amp; Abstracts ##
+* **Comparing Two Delivery Modes Of A Supportive Care Platform For Metastatic Breast Cancer Patients**\
+_Medicine & Science in Sports & Exercise_\
+
 * **PTSDialogue: Designing a Conversational Agent to Support Individuals with Post-Traumatic Stress Disorder**\
 _Mental health: Sensing &amp; Intervention (MHSI) workshop at UbiComp_, 2021\
 \[[doi](https://dl.acm.org/doi/10.1145/3460418.3479332)\] &bull; \[[pdf]({% link /files/pubs/2021-ptsdialogue-ubicomp.pdf %})\]
