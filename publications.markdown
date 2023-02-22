@@ -159,6 +159,11 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 
 ## Workshop Papers &amp; Abstracts ##
+
+* **Automatic Classification of Dementia Using Text and Speech Data**\
+_Multimodal AI in Healthcare. Studies in Computational Intelligence_, 2023\
+\[[doi](https://doi.org/10.1007/978-3-031-14771-5_29)\] &bull; \[[pdf]({%link /files/pubs/2023-multimodal-dementia.pdf %})\]
+
 * **Comparing Two Delivery Modes Of A Supportive Care Platform For Metastatic Breast Cancer Patients**\
 _Medicine & Science in Sports & Exercise_\
 
