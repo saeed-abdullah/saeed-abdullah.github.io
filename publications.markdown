@@ -165,7 +165,8 @@ _Multimodal AI in Healthcare. Studies in Computational Intelligence_, 2023\
 \[[doi](https://doi.org/10.1007/978-3-031-14771-5_29)\] &bull; \[[pdf]({%link /files/pubs/2023-multimodal-dementia.pdf %})\]
 
 * **Comparing Two Delivery Modes Of A Supportive Care Platform For Metastatic Breast Cancer Patients**\
-_Medicine & Science in Sports & Exercise_\
+_Medicine & Science in Sports & Exercise_, 2022\
+\[[doi](https://doi.org/10.1249/01.mss.0000879068.43957.d0)\] &bull; \[[pdf]({% link /files/pubs/2022-nurse-amie-mbc.pdf %})\]
 
 * **PTSDialogue: Designing a Conversational Agent to Support Individuals with Post-Traumatic Stress Disorder**\
 _Mental health: Sensing &amp; Intervention (MHSI) workshop at UbiComp_, 2021\
