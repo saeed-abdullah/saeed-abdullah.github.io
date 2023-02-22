@@ -3,6 +3,23 @@ title: News
 layout: page
 ---
 
+**You can see our lab news and updates [here](https://whilab.org/news.html)**.
+
+2023
+----
+
+* _January, 2023_: We have two papers conditionally accepted at [CHI 2023](https://chi2023.acm.org).
+
+2022
+----
+* _November, 2022_: Our [paper]({%link /files/pubs/2023-multimodal-dementia.pdf %}) on automatic classification of dementia using text and speech data was accepted in [Multimodal AI in Healthcare](https://link.springer.com/chapter/10.1007/978-3-031-14771-5_29).
+
+* _November, 2022_: Our [paper]({% link /files/pubs/2022-fintech-frontiers.pdf %}) on understanding the relationship between financial behavior and mental health was accepted in [Frontiers](https://doi.org/10.3389/fpsyt.2022.810057).
+
+* _September, 2022_: Our [paper](https://doi.org/10.1249/01.mss.0000879068.43957.d0) on comparing two delivery modes of a supportive care platform for metastatic breast cancer patients was accepted in [Medicine & Science in Sports & Exercise](https://journals.lww.com/acsm-msse/pages/default.aspx).
+
+* _July, 2022_: Our [paper]({% link /files/pubs/2022-substance-abuse-review-protocol-jmir.pdf %}) outlining a forthcoming systematic review of design approaches and evaluation methods in mHealth apps targeting substance use has been published on [JMIR Research Protocols](https://doi.org/10.2196/35749).
+
 * _April, 2022_: We have received the [SSRI Large Pilot Award](https://ssri.psu.edu/funding/ssri-pilot-award) ($74,379) to support financial wellbeing of individuals with bipolar disorder.
 
 * _January, 2022_: Our paper on privacy sensitive speech analysis using federated learning to assess depression has been accepted in [ICASSP](https://2022.ieeeicassp.org/).
