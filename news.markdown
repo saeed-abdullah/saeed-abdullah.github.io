@@ -8,7 +8,9 @@ layout: page
 2023
 ----
 
-* _January, 2023_: We have two papers conditionally accepted at [CHI 2023](https://chi2023.acm.org).
+* _February, 2023_: I was invited to talk about conversational agents to support health and wellbeing at the [SPSP Psychology of Media and Technology preconference](https://web.archive.org/web/20230310222831/https://spsp.org/events/annual-convention/preconferences/psychology-of-media-and-technology).
+
+* _January, 2023_: We have two papers accepted at [CHI 2023](https://chi2023.acm.org)! The first paper focuses on [designing preemptive interventions for indviduals with bipolar disorder]({%link /files/pubs/2023-bd-premptive-intervention-chi.pdf %}). The second paper aims to [improve physical activity among Hispanic users]({%link /files/pubs/2023-fitness-chi.pdf %}).
 
 2022
 ----

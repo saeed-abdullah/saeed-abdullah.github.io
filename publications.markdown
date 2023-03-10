@@ -22,6 +22,10 @@ _Mobile Health (Springer)_, 2017\
 \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
 ## Journal Articles ##
+* **Addressing metastatic individuals everyday: Rationale and design of the nurse AMIE for Amazon Echo Show trial among metastatic breast cancer patients**\
+_Contemporary Clinical Trials Communications_, 2023\
+\[[doi](https://doi.org/10.1016/j.conctc.2023.101058)\] &bull; \[[pdf]({% link /files/pubs/2023-nurse-amie-trial.pdf %})\]
+
 * **Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health**\
 _Frontiers in Psychiatry_, 2022\
 \[[doi](https://doi.org/10.3389/fpsyt.2022.810057)\] &bull; \[[pdf]({% link /files/pubs/2022-fintech-frontiers.pdf %})\]
@@ -81,6 +85,13 @@ for acceptance rates). Papers in those conferences are considered as top researc
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 </span>
 ## Conference Papers ##
+* **Knowing How Long a Storm Might Last Makes it Easier to Weather: Exploring Needs and Attitudes Toward a Data-driven and Preemptive Intervention System for Bipolar Disorder**\
+_CHI Conference on Human Factors in Computing Systems_, 2023\
+\[[doi](https://doi.org/10.1145/3544548.3581563)\] &bull; \[[pdf]({%link /files/pubs/2023-bd-premptive-intervention-chi.pdf %})\]
+
+* **Motivation to Use Fitness Application for Improving Physical Activity Among Hispanic Users: The Pivotal Role of Interactivity and Relatedness**\
+_CHI Conference on Human Factors in Computing Systems_, 2023\
+\[[doi](https://doi.org/10.1145/3544548.3581200)\] &bull; \[[pdf]({%link /files/pubs/2023-fitness-chi.pdf %})\]
 
 * **Privacy Sensitive Speech Analysis Using Federated Learning To Assess Depression**\
 _IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)_\
