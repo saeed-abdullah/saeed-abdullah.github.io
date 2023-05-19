@@ -8,6 +8,10 @@ layout: page
 2023
 ----
 
+* _May, 2023_: I have received an NIMH R21 grant to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://profiles.psu.edu/profiles/display/112378) and [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182).
+
+* _May, 2023_: I have received the [Dean’s Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/) award.
+
 * _February, 2023_: I was invited to talk about conversational agents to support health and wellbeing at the [SPSP Psychology of Media and Technology preconference](https://web.archive.org/web/20230310222831/https://spsp.org/events/annual-convention/preconferences/psychology-of-media-and-technology).
 
 * _January, 2023_: We have two papers accepted at [CHI 2023](https://chi2023.acm.org)! The first paper focuses on [designing preemptive interventions for indviduals with bipolar disorder]({%link /files/pubs/2023-bd-premptive-intervention-chi.pdf %}). The second paper aims to [improve physical activity among Hispanic users]({%link /files/pubs/2023-fitness-chi.pdf %}).
