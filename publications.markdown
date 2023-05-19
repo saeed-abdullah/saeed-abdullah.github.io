@@ -22,6 +22,15 @@ _Mobile Health (Springer)_, 2017\
 \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
 ## Journal Articles ##
+
+* **Preliminary Evaluation of a Conversational Agent to Support Self-management of Individuals Living with PTSD: An Interview Study with Clinical Experts**\
+_JMIR Formative Research_, 2023\
+_In press_
+
+* **Women with metastatic breast cancer don't just follow step-count trends, they exceed them: An exploratory study**\
+_Breast Cancer Research and Treatment_, 2023\
+_In press_
+
 * **Addressing metastatic individuals everyday: Rationale and design of the nurse AMIE for Amazon Echo Show trial among metastatic breast cancer patients**\
 _Contemporary Clinical Trials Communications_, 2023\
 \[[doi](https://doi.org/10.1016/j.conctc.2023.101058)\] &bull; \[[pdf]({% link /files/pubs/2023-nurse-amie-trial.pdf %})\]
@@ -85,6 +94,10 @@ for acceptance rates). Papers in those conferences are considered as top researc
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 </span>
 ## Conference Papers ##
+* **Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Tradeoff in Speech Signal Data**\
+_INTERSPEECH_, 2023\
+_In press_
+
 * **Knowing How Long a Storm Might Last Makes it Easier to Weather: Exploring Needs and Attitudes Toward a Data-driven and Preemptive Intervention System for Bipolar Disorder**\
 _CHI Conference on Human Factors in Computing Systems_, 2023\
 \[[doi](https://doi.org/10.1145/3544548.3581563)\] &bull; \[[pdf]({%link /files/pubs/2023-bd-premptive-intervention-chi.pdf %})\]
