@@ -23,13 +23,18 @@ _Mobile Health (Springer)_, 2017\
 
 ## Journal Articles ##
 
+* **Technology Based Supportive Care for Metastatic Breast Cancer Patients**\
+_Supportive Care in Cancer_, 2023\
+\[[doi](https://doi.org/10.1007/s00520-023-07884-3)\] &bull; \[[pdf]({% link /files/pubs/2023-nurse-amie-care.pdf %})\]
+
+
 * **Preliminary Evaluation of a Conversational Agent to Support Self-management of Individuals Living with PTSD: An Interview Study with Clinical Experts**\
 _JMIR Formative Research_, 2023\
-_In press_
+\[[doi](https://doi.org/10.2196/45894)\] &bull; \[[pdf]({% link /files/pubs/2023-expert-eval-ptsdialog.pdf %})\]
 
 * **Women with metastatic breast cancer don't just follow step-count trends, they exceed them: An exploratory study**\
 _Breast Cancer Research and Treatment_, 2023\
-_In press_
+\[[doi](https://doi.org/10.1007/s10549-023-06980-6)\] &bull; \[[pdf]({% link /files/pubs/2023-nurse-amie-steps.pdf %})\]
 
 * **Addressing metastatic individuals everyday: Rationale and design of the nurse AMIE for Amazon Echo Show trial among metastatic breast cancer patients**\
 _Contemporary Clinical Trials Communications_, 2023\
@@ -183,6 +188,21 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 
 ## Workshop Papers &amp; Abstracts ##
+* **Fintech for Psychological and Financial Resilience: Determinants of Financial Data Sharing Behavior for Individuals with Bipolar Disorder**\
+_Designing for and Reflecting upon Resilience in Health and Wellbeing workshop at DIS_, 2023
+
+* **Designing to Support Longitudinal Financial Management and Resilience for Persons Living with Dementia and their Care Partners: Identifying User Needs and Challenges**\
+_Designing for and Reflecting upon Resilience in Health and Wellbeing workshop at DIS_, 2023
+
+* **Designing for and Reflecting upon Resilience in Health and Wellbeing**\
+_Designing Interactive Systems (DIS)_, 2023\
+\[[doi](https://doi.org/10.1145/3563703.3591456)\] &bull; \[[pdf]({%link /files/pubs/2023-resilience-workshop-dis.pdf %})\]
+
+* **Supportive Data-Driven Financial Technologies for Individuals with Serious Mental Illnesses**\
+_WISH Symposium at CHI Conference on Human Factors in Computing Systems_, 2023
+
+* **Impulsive Spending and Finance Management in Bipolar Disorder: Technol- ogy as both a Problem and Potential Solution**\
+_Annual Conference of the International Society for Bipolar Disorders_, 2023
 
 * **Automatic Classification of Dementia Using Text and Speech Data**\
 _Multimodal AI in Healthcare. Studies in Computational Intelligence_, 2023\
@@ -251,6 +271,15 @@ _CHI Conference on Human Factors in Computing Systems_, 2014\
 
 
 ## Posters &amp; Demos ##
+
+* **Development of a Voice Interface to Support Mindfulness Practice for Individuals with Chronic Pain**\
+_Consortium on Substance Use and Addiction (CSUA) Annual Conference_, 2023
+
+* **Dementia Diagnosis using Text and Speech Data**\
+_ICDS Fall 2022 Symposium: Data Science, AI, and a Sustainable, Resilient, and Equitable Future_, 2022
+
+* **ACOUSTICS : Automatic classification of subjects with dementia and healthy controls using text transcriptions and speech data**\
+_Health Intelligence (W3PHIAI-22) Workshop at the AAAI Conference on Artificial Intelligence_, 2022
 
 * **Automatic detection of social rhythms in bipolar disorder via smartphone**\
 _American College of Neuropsychopharmacology (ACNP)_, 2015\
