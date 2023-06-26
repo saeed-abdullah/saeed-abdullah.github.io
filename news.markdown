@@ -8,7 +8,7 @@ layout: page
 2023
 ----
 
-* **May, 2023**: I have received an NIMH R21 grant to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://profiles.psu.edu/profiles/display/112378) and [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182).
+* **May, 2023**: I have received an [NIMH R21 grant](https://reporter.nih.gov/project-details/10575894) to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://profiles.psu.edu/profiles/display/112378) and [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182).
 
 * **May, 2023**: I have received the [Dean’s Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/) award.
 
