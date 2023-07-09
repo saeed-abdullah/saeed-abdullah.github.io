@@ -37,6 +37,8 @@ layout: page
 
 * **August, 2021**: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
+* **August, 2021**: As scholarship co-chairs, we have received a SIGCHI Development Award to improve inclusivity and diversity in UbiComp and ISWC.
+
 * **June, 2021**: We gave a keynote speech at the [Canadian Hard of Hearing Association (CHHA ) National Educational Conference](https://www.chhaconference.ca/agenda) discussing our recent [work on deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf).
 
 * **June, 2021**: Our book chapter on [ubiquitous computing for person-environment research]({% link /files/pubs/2021-ubicomp-book-chapter.pdf %}) has been [published](https://doi.org/10.1016/B978-0-12-819200-9.00020-X).
