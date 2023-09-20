@@ -8,6 +8,8 @@ layout: page
 2023
 ----
 
+* **September, 2023**: I have received an [NSF grant to develop AI teammates to support mental health workers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326145&HistoricalAwards=false). This is a collaboration with [Andrew Sherrill](https://med.emory.edu/directory/profile/?u=AMSHERR), [Christopher Wiese](https://www.christopherwiese.com/home), and [Rosa Arriaga](https://sites.google.com/view/riarriaga/home).
+
 * **May, 2023**: I have received an [NIMH R21 grant](https://reporter.nih.gov/project-details/10575894) to assess financial behaviors in bipolar disorder. This project is a collaboration with [Erika F. H. Saunders](https://profiles.psu.edu/profiles/display/112378) and [Dahlia Mukherjee](https://profiles.psu.edu/profiles/display/158660182).
 
 * **May, 2023**: I have received the [Dean’s Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/) award.
