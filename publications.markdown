@@ -23,6 +23,10 @@ _Mobile Health (Springer)_, 2017\
 
 ## Journal Articles ##
 
+* **Busting the one-voice-fits-all myth: Effects of similarity and customization of voice-assistant personality**\
+_International Journal of Human-Computer Studies_, 2023\
+\[[doi](https://doi.org/10.1016/j.ijhcs.2023.103126)\] &bull; \[[pdf]({% link /files/pubs/2023-one-voice-IJHCI.pdf %})\]
+
 * **Technology Based Supportive Care for Metastatic Breast Cancer Patients**\
 _Supportive Care in Cancer_, 2023\
 \[[doi](https://doi.org/10.1007/s00520-023-07884-3)\] &bull; \[[pdf]({% link /files/pubs/2023-nurse-amie-care.pdf %})\]
@@ -101,11 +105,11 @@ for acceptance rates). Papers in those conferences are considered as top researc
 ## Conference Papers ##
 * **Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data**\
 _INTERSPEECH_, 2023\
-_In press_
+\[[doi](https://doi.org/10.21437/Interspeech.2023-575)\] &bull; \[[pdf]({%link /files/pubs/2023-diff-privacy-interspeech.pdf %})\]
 
 * **Knowing How Long a Storm Might Last Makes it Easier to Weather: Exploring Needs and Attitudes Toward a Data-driven and Preemptive Intervention System for Bipolar Disorder**\
 _CHI Conference on Human Factors in Computing Systems_, 2023\
-\[[doi](https://doi.org/10.1145/3544548.3581563)\] &bull; \[[pdf]({%link /files/pubs/2023-bd-premptive-intervention-chi.pdf %})\]
+\[[doi](https://doi.org/10.1145/3544548.3581563)\] &bull; \[[pdf]({%link /files/pubs/2023-bd-intervention-chi.pdf %})\]
 
 * **Motivation to Use Fitness Application for Improving Physical Activity Among Hispanic Users: The Pivotal Role of Interactivity and Relatedness**\
 _CHI Conference on Human Factors in Computing Systems_, 2023\
