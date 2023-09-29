@@ -11,4 +11,8 @@ url:              saeedabdullah.com
 author:
   name:           'Saeed Abdullah'
 
+exclude:
+  - Makefile
+  - sanitizers/
+
 # paginate:         5

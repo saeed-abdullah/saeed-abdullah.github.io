@@ -37,7 +37,7 @@ layout: page
 2021
 ----
 
-* **August, 2021**: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISCWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
+* **August, 2021**: We have [two](https://doi.org/10.1145/3460418.3479332) [papers](https://doi.org/10.1145/3460418.3479336) accepted in the [UbiComp/ISWC Adjunct Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3460418).
 
 * **August, 2021**: As scholarship co-chairs, we have received a SIGCHI Development Award to improve inclusivity and diversity in UbiComp and ISWC.
 

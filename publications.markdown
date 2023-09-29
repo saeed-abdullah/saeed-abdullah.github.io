@@ -99,7 +99,7 @@ for acceptance rates). Papers in those conferences are considered as top researc
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 </span>
 ## Conference Papers ##
-* **Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Tradeoff in Speech Signal Data**\
+* **Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data**\
 _INTERSPEECH_, 2023\
 _In press_
 
@@ -201,7 +201,7 @@ _Designing Interactive Systems (DIS)_, 2023\
 * **Supportive Data-Driven Financial Technologies for Individuals with Serious Mental Illnesses**\
 _WISH Symposium at CHI Conference on Human Factors in Computing Systems_, 2023
 
-* **Impulsive Spending and Finance Management in Bipolar Disorder: Technol- ogy as both a Problem and Potential Solution**\
+* **Impulsive Spending and Finance Management in Bipolar Disorder: Technology as both a Problem and Potential Solution**\
 _Annual Conference of the International Society for Bipolar Disorders_, 2023
 
 * **Automatic Classification of Dementia Using Text and Speech Data**\

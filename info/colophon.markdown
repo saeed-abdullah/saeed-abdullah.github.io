@@ -7,7 +7,7 @@ This website uses themes and fonts created by [Eric Lawler](https://lawler.io/ab
 who graciously made them [available under the MIT license][lawler-license].
 <label for="hn-link" class="margin-toggle">&#8853;</label><input type="checkbox" id="hn-link" class="margin-toggle"><span class="marginnote">
 I first came across these themes in
-a [Hacker News post](https://news.ycombinator.com/item?id=19615895). It has some intersting comemnts
+a [Hacker News post](https://news.ycombinator.com/item?id=19615895). It has some interesting comments
 on website readability.
 </span>
 
