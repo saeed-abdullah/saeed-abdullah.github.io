@@ -22,15 +22,9 @@ and serious mental illnesses including [bipolar disorder][bd-project]
 and [PTSD][ptsd]. Take a look at the projects I have been [working
 on][projects].
 
-
-Feel free to get in touch at _me@saeedabdullah.com_ or
-[@saeed_siam][twitter].
-
 {% comment %}
 {% include recent_posts.html %}
 {% endcomment %}
-
-
 
 [whi-lab]: https://whilab.org/
 [ist-link]: https://ist.psu.edu/
