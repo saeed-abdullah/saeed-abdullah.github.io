@@ -11,4 +11,7 @@ $(markdowns):
 spell: $(markdowns)
 	@:
 
-.PHONY: run, $(markdowns)
+link:
+	wget --spider -r -nd -nv  -l 0 -o /tmp/run-sa.log http://127.0.0.1:4000/
+
+.PHONY: run, link, $(markdowns)
