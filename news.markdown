@@ -62,7 +62,7 @@ layout: page
 2020
 ----
 
-* **December, 2020**: We published a paper focusing on the [challenges of using smart assistants for deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf) in the [ACM IMWUT journal](imwut.acm.org/).
+* **December, 2020**: We published a paper focusing on the [challenges of using smart assistants for deaf and hard of hearing users](files/pubs/smart-assistant-dhh-imwut-2020.pdf) in the [ACM IMWUT journal](https://dl.acm.org/journal/imwut).
 
 * **September, 2020**: We co-organized the [5th International Workshop on Mental Health And Well-Being: Sensing And Intervention](https://ubicomp-mental-health.github.io/workshop-2020.html) at UbiComp.
 
