@@ -23,6 +23,10 @@ _Mobile Health (Springer)_, 2017\
 
 ## Journal Articles ##
 
+* **Designing voice interfaces to support mindfulness-based pain management**\
+_DIGITAL HEALTH_, 2023\
+\[[doi](https://doi.org/10.1177/20552076231204418)\] &bull; \[[pdf]({% link /files/pubs/2023-voice-interface-mindfulness-pain-management-DH.pdf %})\]
+
 * **Busting the one-voice-fits-all myth: Effects of similarity and customization of voice-assistant personality**\
 _International Journal of Human-Computer Studies_, 2023\
 \[[doi](https://doi.org/10.1016/j.ijhcs.2023.103126)\] &bull; \[[pdf]({% link /files/pubs/2023-one-voice-IJHCI.pdf %})\]
