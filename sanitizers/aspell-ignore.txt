@@ -1,4 +1,4 @@
-personal_ws-1.1 en 199 
+personal_ws-1.1 en 201 
 AAAI
 ACHA
 ACM
@@ -43,6 +43,7 @@ ICASSP
 ICDS
 ICS
 ICTAI
+IJHCI
 IMWUT
 INTERSPEECH
 IST
@@ -157,6 +158,7 @@ ieee
 imwut
 inclusivity
 interpretability
+interspeech
 istc
 jamia
 jmir
