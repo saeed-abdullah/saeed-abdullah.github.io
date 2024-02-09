@@ -1,6 +1,5 @@
 all: run
 
-
 run: 
 	bundle exec jekyll serve --livereload --watch
 
@@ -19,4 +18,4 @@ link:
 bundle:
 	bundle update github-pages
 
-.PHONY: run, link, $(markdowns), bundle
+.PHONY: run link $(markdowns) bundle spell
