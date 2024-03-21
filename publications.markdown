@@ -23,6 +23,11 @@ _Mobile Health (Springer)_, 2017\
 
 ## Journal Articles ##
 
+* **Conversational Agents in Palliative Care: Potential Benefits, Risks, and Next Steps**\
+_Journal of Palliative Medicine_, 2024\
+\[[doi](https://doi.org/10.1089/jpm.2023.0534)\]
+
+
 * **Designing voice interfaces to support mindfulness-based pain management**\
 _DIGITAL HEALTH_, 2023\
 \[[doi](https://doi.org/10.1177/20552076231204418)\] &bull; \[[pdf]({% link /files/pubs/2023-voice-interface-mindfulness-pain-management-DH.pdf %})\]
@@ -107,6 +112,10 @@ for acceptance rates). Papers in those conferences are considered as top researc
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 </span>
 ## Conference Papers ##
+* **Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences to Support Longitudinal Care Management**\
+_CHI Conference on Human Factors in Computing Systems_, 2024\
+\[[doi](https://doi.org/10.1145/3613904.3642645)\] &bull; \[[pdf]({%link /files/pubs/2024-chi-fintech-bd.pdf %})\]
+
 * **Differential Privacy enabled Dementia Classification: An Exploration of the Privacy-Accuracy Trade-off in Speech Signal Data**\
 _INTERSPEECH_, 2023\
 \[[doi](https://doi.org/10.21437/Interspeech.2023-575)\] &bull; \[[pdf]({%link /files/pubs/2023-diff-privacy-interspeech.pdf %})\]
@@ -196,6 +205,10 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 
 ## Workshop Papers &amp; Abstracts ##
+* **Managing Finances for Persons Living with Dementia: Current Practices and Challenges for Care Partners**\
+_CHI Conference on Human Factors in Computing Systems_, 2024\
+_In press_
+
 * **Fintech for Psychological and Financial Resilience: Determinants of Financial Data Sharing Behavior for Individuals with Bipolar Disorder**\
 _Designing for and Reflecting upon Resilience in Health and Wellbeing workshop at DIS_, 2023
 
