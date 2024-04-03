@@ -206,8 +206,14 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 ## Workshop Papers &amp; Abstracts ##
 * **Managing Finances for Persons Living with Dementia: Current Practices and Challenges for Care Partners**\
-_CHI Conference on Human Factors in Computing Systems_, 2024\
-_In press_
+_Late-Breaking paper at the CHI Conference on Human Factors in Computing Systems_, 2024\
+\[[doi](https://doi.org/10.1145/3613905.3650809)\] &bull; \[[pdf]({%link /files/pubs/2024-chi-lbw-dementia-fintech.pdf %})\]
+
+* **GAIMPLAY: A Theory-Informed Prompt Engineering Architecture for Personalized Motivational Message Generation to Promote Physical Activity**\
+_Designing (with) AI for Wellbeing workshop at the CHI Conference on Human Factors in Computing Systems_, 2024
+
+* **“Learning to Live with Pain”: Designing a Voice Assistant to Deliver Mindfulness-Based Stress Reduction Practices for Individuals Living with Chronic Pain**\
+_Annual meeting of the Society for Prevention Research_, 2024
 
 * **Fintech for Psychological and Financial Resilience: Determinants of Financial Data Sharing Behavior for Individuals with Bipolar Disorder**\
 _Designing for and Reflecting upon Resilience in Health and Wellbeing workshop at DIS_, 2023
