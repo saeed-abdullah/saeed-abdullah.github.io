@@ -12,7 +12,7 @@ blog/_site/*
 Gemfile.lock
 
 # Folders
-/vendor
+vendor/
 
 #Ignore .DS_Store
 .DS_Store
