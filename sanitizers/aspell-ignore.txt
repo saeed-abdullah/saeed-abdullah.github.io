@@ -1,4 +1,4 @@
-personal_ws-1.1 en 201 
+personal_ws-1.1 en 202 
 AAAI
 ACHA
 ACM
@@ -32,6 +32,7 @@ Eisenberg
 FinTech
 Franziska
 Fredman
+GAIMPLAY
 Geri
 HCI
 HCIC
