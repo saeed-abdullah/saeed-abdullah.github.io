@@ -6,7 +6,7 @@ title_no_show: true
 
 **Hi, I am Saeed Abdullah**.
 
-I am an assistant professor in the College of Information Sciences
+I am an associate professor in the College of Information Sciences
 and Technology ([IST][ist-link]) at Penn State. I also lead the
 [Wellbeing & Health Innovation (WHI)][whi-lab] lab.
 
