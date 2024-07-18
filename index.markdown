@@ -6,21 +6,22 @@ title_no_show: true
 
 **Hi, I am Saeed Abdullah**.
 
-I am an associate professor in the College of Information Sciences
-and Technology ([IST][ist-link]) at Penn State. I also lead the
-[Wellbeing & Health Innovation (WHI)][whi-lab] lab.
+I am an associate professor in the College of Information Sciences and
+Technology ([IST][ist-link]) at Penn State. I also lead the [Wellbeing & Health
+Innovation (WHI)][whi-lab] lab.
 
-My research spans the domains of HCI, data science, and pervasive
-health technologies. I am particularly interested in developing
-novel assessment and intervention methods to support health and
-wellbeing.
+My goal is to improve health equity and access for all. I work at the
+intersection of digital health, human computer interaction (HCI), and
+data science.
 
-In recent years, I have designed, developed, and deployed ubiquitous
-and data-driven systems across a diverse set of domains: [sleep][sleep],
-[cognitive performance][alertness], [chronic pain management][pain],
-and serious mental illnesses including [bipolar disorder][bd-project]
-and [PTSD][ptsd]. Take a look at the projects I have been [working
-on][projects].
+I am currently working on [financial technologies
+(fintech) to support marginalized communities][fintech-projects],
+including individuals with [bipolar disorder][bd-fintech] and [dementia]
+[dementia-fintech]. I am also developing [human-centered AI systems]
+[hcai-projects] for [training mental health workers][teammait],
+[improving dementia care][dementia-va], [supporting palliative care]
+[palliative-care], and [generating personalized health interventions]
+[genai-intervention].
 
 {% comment %}
 {% include recent_posts.html %}
@@ -28,12 +29,11 @@ on][projects].
 
 [whi-lab]: https://whilab.org/
 [ist-link]: https://ist.psu.edu/
-[clockwise-project]: https://whilab.org/projects/clockwise.html
-[bd-project]: https://whilab.org/projects/bd-prediction.html
-[pain]: https://whilab.org/projects/ca-chronic-pain
-[ptsd]: https://whilab.org/projects/ca-ptsd.html
-[alertness]: https://whilab.org/projects/alertness-performance.html
-[sleep]: https://whilab.org/projects/cr-distruption-phone-sensing.html
-[twitter]: https://twitter.com/saeed_siam
-[prospective]: https://whilab.org/prospective-students.html
-[projects]: https://whilab.org/projects/
+[fintech-projects]: https://whilab.org/#democratizing-financial-technology-fintech
+[hcai-projects]: https://whilab.org/#human-centered-ai-for-health
+[bd-fintech]: https://whilab.org/projects/bd-finhealth.html
+[dementia-fintech]: https://whilab.org/projects/dementia-fintech.html
+[teammait]: https://whilab.org/projects/teammait.html
+[dementia-va]: https://whilab.org/projects/dementia-va.html
+[palliative-care]: https://whilab.org/projects/palliative-care.html
+[genai-intervention]: https://whilab.org/projects/genai-intervention.html
