@@ -3,7 +3,7 @@ title: News
 layout: page
 ---
 
-**You can see our lab news and updates [here](https://whilab.org/news.html)**.
+**You can see our lab news and updates [here](https://whilab.org/news)**.
 
 2023
 ----
