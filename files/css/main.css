@@ -76,7 +76,7 @@ table {
 }
 
 ul {
-    list-style: outside circle;
+    list-style: outside disc;
 }
 
 ol {
@@ -649,16 +649,20 @@ blockquote footer {
 }
 
 section > h1, section > h2, section > h3,
-section > p, section > footer, section > table, section > hr {
+section > p, section > footer, section > table, section > hr,
+section > ol, section > ul {
     width: 60%;
 }
 
-/* 54 + 6 == 60, to be the same width as paragraph */
+
+/* 54 + 6 == 60, to be the same width as paragraph
+ * Removing this rule as the padding feels too much and
+ * unnecessary
 section > ol, section > ul {
     width: 54%;
     -webkit-padding-start: 6%;
     -moz-padding-start: 6%;
-}
+} */
 
 li:not(:first-child) {
     margin-top: 0.25rem;
