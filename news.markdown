@@ -1,9 +1,8 @@
 ---
-title: News
+title: News (Archived)
 layout: page
 ---
-
-**You can see our lab news and updates [here](https://whilab.org/news)**.
+This is an **archived** page.  You can see our recent lab news and updates [here](https://whilab.org/news).
 
 2023
 ----

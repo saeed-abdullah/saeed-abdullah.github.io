@@ -23,6 +23,17 @@ including individuals with [bipolar disorder][bd-fintech] and [dementia]
 [palliative-care], and [generating personalized health interventions]
 [genai-intervention].
 
+---
+
+**Selected News** ([lab updates](https://whilab.org/news))
+* 07/2024: Tenured!
+* 06/2024: NIA R21 grant to [support dementia care][dementia-va]
+* 09/2023: NSF grant [to improve mental health worker training][teammait]
+* 03/2023: NIMH R21 grant on [financial behaviors in bipolar disorder][bd-fintech]
+* 05/2023: Received [Dean's Circle of Teaching Excellence](https://www.psu.edu/news/information-sciences-and-technology/story/ist-announces-2023-deans-circle-teaching-excellence/)
+* 03/2020: [Honorable Mention Award at CHI](https://dl.acm.org/doi/10.1145/3313831.3376551)
+* 03/2019: [Received Junior Faculty Excellence Award in Research](https://news.psu.edu/story/567207/2019/04/03/faculty-and-staff-recognized-annual-ist-awards-reception)
+
 {% comment %}
 {% include recent_posts.html %}
 {% endcomment %}
