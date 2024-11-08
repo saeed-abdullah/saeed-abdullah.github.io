@@ -26,6 +26,7 @@ including individuals with [bipolar disorder][bd-fintech] and [dementia]
 ---
 
 **Selected News** ([lab updates](https://whilab.org/news))
+* 08/2024: NIH P30 grant to [design health interventions][genai-intervention] (Co-I)
 * 07/2024: Tenured!
 * 06/2024: NIA R21 grant to [support dementia care][dementia-va]
 * 09/2023: NSF grant [to improve mental health worker training][teammait]
