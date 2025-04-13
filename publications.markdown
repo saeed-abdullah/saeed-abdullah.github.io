@@ -13,6 +13,10 @@ with more details. You can also check [my Google Scholar profile](https://schola
 * [Posters & Demos](#posters--demos)
 
 ## Book Chapters ##
+* **Technology in Mental Health Work: Challenges and Opportunities**\
+_Human-Technology Partnerships at Work_, 2025\
+In press
+
 * **Ubiquitous computing for person-environment research: Opportunities, considerations, and future directions**\
 _Measuring and Modeling Persons and Situations_, 2021\
 \[[doi](https://doi.org/10.1016/B978-0-12-819200-9.00020-X)\] &bull; \[[pdf]({% link /files/pubs/2021-ubicomp-book-chapter.pdf %})\]
@@ -22,11 +26,29 @@ _Mobile Health (Springer)_, 2017\
 \[[doi](https://doi.org/10.1007/978-3-319-51394-2_3)\] &bull; \[[pdf]({% link /files/pubs/circadian-computing-book-2017.pdf %})\]
 
 ## Journal Articles ##
+* **There's No “I” in TEAMMAIT: Impacts of Domain and Expertise on Trust in AI Teammates for Mental Health Work**\
+_Proceedings of the ACM on Human-Computer Interaction (PACM HCI)_, 2025\
+In press
+
+* **Teaming with Artificial Intelligence to Learn and Sustain Psychotherapy Delivery Skills: Workplace, Ethical, and Research Implications**\
+_Journal of Technology in Behavioral Science_, 2025\
+\[[doi](https://doi.org/10.1007/s41347-025-00484-4)\] &bull; \[[pdf]({% link /files/pubs/2025-teaming-with-ai.pdf %})\]
+
+* **Exploring user engagement with real-time verbal feedback from an exoskeleton-based virtual exercise coach**\
+_DIGITAL HEALTH_, 2025\
+\[[doi](https://doi.org/10.1177/20552076241302652)\] &bull; \[[pdf]({% link /files/pubs/2025-exoskeleton-exercise.pdf %})\]
+
+* **Assessing acceptance and feasibility of a conversational agent to support individuals living with post-traumatic stress disorder**\
+_DIGITAL HEALTH_, 2024\
+\[[doi](https://doi.org/10.1177/20552076241286133)\] &bull; \[[pdf]({% link /files/pubs/2024-feasibility-ptsdialog.pdf %})\]
+
+* **Using a Smartwatch App to Understand Young Adult Substance Use: Mixed Methods Feasibility Study**\
+_JMIR Human Factors_, 2024\
+\[[doi](https://doi.org/10.2196/50795)\] &bull; \[[pdf]({% link /files/pubs/2024-substance-use-smartwatch.pdf %})\]
 
 * **Conversational Agents in Palliative Care: Potential Benefits, Risks, and Next Steps**\
 _Journal of Palliative Medicine_, 2024\
-\[[doi](https://doi.org/10.1089/jpm.2023.0534)\]
-
+\[[doi](https://doi.org/10.1089/jpm.2023.0534)\] &bull; \[[pdf]({% link /files/pubs/2024-ca-palliative-care.pdf %})\]
 
 * **Designing voice interfaces to support mindfulness-based pain management**\
 _DIGITAL HEALTH_, 2023\
@@ -112,6 +134,11 @@ for acceptance rates). Papers in those conferences are considered as top researc
 [impact comparable to journal articles](https://doi.org/10.1145/1743546.1743569).
 </span>
 ## Conference Papers ##
+* **Speaking of Health: Leveraging Large Language Models to assess Exercise Motivation and Behavior of Rehabilitation Patients**\
+_INTERSPEECH_, 2024
+\[[doi](https://doi.org/10.21437/Interspeech.2024-121)\] &bull; \[[pdf]({%link /files/pubs/2024-speaking-health.pdf %})\]
+
+
 * **Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences to Support Longitudinal Care Management**\
 _CHI Conference on Human Factors in Computing Systems_, 2024\
 \[[doi](https://doi.org/10.1145/3613904.3642645)\] &bull; \[[pdf]({%link /files/pubs/2024-chi-fintech-bd.pdf %})\]
