@@ -135,7 +135,7 @@ for acceptance rates). Papers in those conferences are considered as top researc
 </span>
 ## Conference Papers ##
 * **Speaking of Health: Leveraging Large Language Models to assess Exercise Motivation and Behavior of Rehabilitation Patients**\
-_INTERSPEECH_, 2024
+_INTERSPEECH_, 2024\
 \[[doi](https://doi.org/10.21437/Interspeech.2024-121)\] &bull; \[[pdf]({%link /files/pubs/2024-speaking-health.pdf %})\]
 
 
@@ -232,6 +232,39 @@ _Conference on Tools with Artificial Intelligence (ICTAI)_, 2011\
 
 
 ## Workshop Papers &amp; Abstracts ##
+* **Designing Collaborative Fintech: Identifying Care Partner Goals and Challenges for Supporting the Financial Lives of Those with Bipolar Disorder**\
+_Future of Money and HCI workshop at the CHI Conference on Human Factors in Computing Systems_, 2025
+
+* **The Currency of Mood: The Use of Open Banking APIs to Better Understand Spending and Bipolar Disorder**\
+_Future of Money and HCI workshop at the CHI Conference on Human Factors in Computing Systems_, 2025
+
+* **Technoskepticism or Justified Caution? The Future of Human-Centered AI in Mental Health Care**\
+_Panel at the CHI Conference on Human Factors in Computing Systems_, 2025\
+\[[doi](https://doi.org/10.1145/3706599.3716286) &bull; \[[pdf]({%link /files/pubs/2025-technoskepticism-panel-chi.pdf %})\]
+
+* **Future of Money and HCI**\
+_Workshop at the CHI Conference on Human Factors in Computing Systems_, 2025\
+\[[doi](https://doi.org/10.1145/3706599.3706711) &bull; \[[pdf]({%link /files/pubs/2025-money-hci-chi.pdf %})\]
+
+* **Voice Assistants to Deliver Cognitive Stimulation Therapy for Persons Living with Dementia**\
+_Late-Breaking paper at the CHI Conference on Human Factors in Computing Systems_, 2025\
+\[[doi](https://doi.org/10.1145/3706599.3719707)\] &bull; \[[pdf]({%link /files/pubs/2025-va-cst-dementia-chi-lbw.pdf %})\]
+
+* **Using a Human-Centered AI Approach for Managing Finances in Dementia**\
+_AAAI Fall Symposium Series 2024 — AI for Aging in Place_, 2024
+
+* **Aging in Place with Dementia: Can Voice Assistants Help Provide Cognitive Stimulation?**\
+_AAAI Fall Symposium Series 2024 — AI for Aging in Place_, 2024
+
+* **Teaming with AI to learn and maintain clinical skills in prolonged exposure: Development of TEAMMAIT (Trustworthy, Explainable, and Adaptive Monitoring Machine for AI Teams)**\
+_Association for Behavioral and Cognitive Therapies (ABCT) Annual Convention_, 2024
+
+* **Using Objective Financial Data in Mental Health Interventions – Supporting Long-Term Stability and Financial Collaboration for Individuals with Bipolar Disorder**\
+_Association for Behavioral and Cognitive Therapies (ABCT) Annual Convention_, 2024
+
+* **Designing financial technologies to support individuals with serious mental illnesses**\
+_Association for Behavioral and Cognitive Therapies (ABCT) Annual Convention_, 2024
+
 * **Managing Finances for Persons Living with Dementia: Current Practices and Challenges for Care Partners**\
 _Late-Breaking paper at the CHI Conference on Human Factors in Computing Systems_, 2024\
 \[[doi](https://doi.org/10.1145/3613905.3650809)\] &bull; \[[pdf]({%link /files/pubs/2024-chi-lbw-dementia-fintech.pdf %})\]
@@ -325,6 +358,17 @@ _CHI Conference on Human Factors in Computing Systems_, 2014\
 
 
 ## Posters &amp; Demos ##
+
+<label for="2025-best-poster-psu-startup-week" class="margin-toggle">&#8853;</label><input type="checkbox" id="2025-best-poster-psu-startup-week" class="margin-toggle"><span class="marginnote">**3rd Best Poster Award (out of 80+ posters)**</span>
+* **&#9733; Generative AI for Efficient and Empathetic Conversational Models in Mental Health**\
+_Penn State AI Week_, 2025
+
+* **Generative AI for Clinician-Supported Exposure Therapy: Toward Personalized Script and Image Generation**\
+_Penn State AI Week_, 2025
+
+<label for="2025-best-poster-masc-sll" class="margin-toggle">&#8853;</label><input type="checkbox" id="2025-best-poster-masc-sll" class="margin-toggle"><span class="marginnote">**Best Poster Award (out of 62 posters)**</span>
+* **&#9733; Generative AI for Efficient and Empathetic Conversational Models in Mental Health**\
+_Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2025)_, 2025
 
 * **Development of a Voice Interface to Support Mindfulness Practice for Individuals with Chronic Pain**\
 _Consortium on Substance Use and Addiction (CSUA) Annual Conference_, 2023
