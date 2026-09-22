@@ -26,6 +26,7 @@ including individuals with [bipolar disorder][bd-fintech] and [dementia]
 ---
 
 **Selected News** ([lab updates](https://whilab.org/news))
+* 09/2026: [UbiComp 10-Year Impact Award (Runner-Up)](https://doi.org/10.1145/2971648.2971740)
 * 04/2026: [Honorable Mention Award at CHI](https://programs.sigchi.org/chi/2026/program/content/222848)
 * 04/2025: 3rd Best Poster Award at [Penn State Startup Week][psu-startup-week-2025]
 * 04/2025: Best Poster Award at [MASC-SLL 2025][masc-sll-2025]
